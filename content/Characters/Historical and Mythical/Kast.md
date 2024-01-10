@@ -1,1 +1,1 @@
-God worshipped in [[Ondra]]. Also known as the Son and the Trickster.
+God worshipped in [[Ondra#Religion|Ondra]]. Also known as the Son and the Trickster.

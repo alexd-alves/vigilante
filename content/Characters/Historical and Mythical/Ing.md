@@ -1,1 +1,1 @@
-God worshipped in [[Ondra]]. Also known as the Father and the Destroyer.
+God worshipped in [[Ondra#Religion|Ondra]]. Also known as the Father and the Destroyer.
