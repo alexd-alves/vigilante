@@ -1,4 +1,6 @@
-# Home
+---
+title: Home
+---
 >==Highlighted== information or sections marked as Meta are not known to Meldohr in game.
 ## Important Reminders
 * Find out what [[Nula#Relationships|Aric]] knows - why were they working with [[Vinth]]? What do they know about [[Beep Boop]]? Where is [[Ensari]] and what is her role in this?
