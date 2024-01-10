@@ -1,0 +1,1 @@
+Son of [[Tenda]], leader of the Council in [[Ondra]].

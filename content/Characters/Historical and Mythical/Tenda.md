@@ -1,0 +1,1 @@
+Father of [[Tenda Jr.]] Ended the war in [[Ondra]] 100 years ago by harnessing the source of magic beneath the city and is now in a coma state, unable to die.

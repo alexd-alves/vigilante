@@ -1,0 +1,1 @@
+Runs the [[Barouk's Works]] hero agency in [[Ondra]] and is part of its founding team of heroes. Mother of [[Issha]], Ahssi and Haiche.

@@ -1,0 +1,1 @@
+God worshipped in [[Ondra]]. Also known as the Father and the Destroyer.
