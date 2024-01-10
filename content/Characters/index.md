@@ -3,7 +3,7 @@ title: Characters
 ---
 | Character | Aliases | Race | Organization | Category |
 | ---- | ---- | ---- | ---- | ---- |
-| [[Allia]] | Mother, Creator |  | [[Ondra#Religion`\|Religion]] | [[Characters/Historical and Mythical/index \|Historical and Mythical]] |
+| [[Allia]] | Mother, Creator |  | [[Ondra#Religion\|Religion]] | [[Characters/Historical and Mythical/index \|Historical and Mythical]] |
 | [[Ing]] | Father, Destroyer |  | [[Ondra#Religion\ \|Religion]] | [[Characters/Historical and Mythical/index\|Historical and Mythical]] |
 | [[Kast]] | Son, Trickster |  | [[Ondra#Religion\ \|Religion]] | [[Characters/Historical and Mythical/index\|Historical and Mythical]] |
 | [[Tenda]] |  |  | [[Ondra\|Government]] | [[Characters/Historical and Mythical/index\|Historical and Mythical]] |
