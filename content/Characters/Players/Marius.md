@@ -6,7 +6,7 @@
 
 Character Sheet [here](https://www.dndbeyond.com/characters/107822236).
 ## Trivia
-* Has changed his last name to Thello (né Bode).
+* Changed his last name to his husband's last name Thello.
 * He is part of the Bode mafia family. ==[[Reset]] is a direct offshoot of it.==
 ## Relationships
 ### Thello Family

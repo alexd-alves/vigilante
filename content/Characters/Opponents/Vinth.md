@@ -1,3 +1,3 @@
 Leader of [[Reset]] and member of the [[Marius#Bode Family|Bode family]]. 
 
-The [[index#Players|Party]] learns during the [[Session 6#[Do You Think You're Better Off Alone](https //www.youtube.com/watch?v=Lgs9QUtWc3M)|bot fight]] at [[The Blue Bucket]] that Vinth is fighting the [[Beep Boop]] copies alongside [[Marius#Relationships|Aeris]] and [[Nula#Relationships|Aric]], but he is hostile and is killed by one of the [[Beep Boop|Beep Boops]] before giving any more information.
+The [[index#Players|Party]] learns during the [[Session 6|bot fight]] at [[The Blue Bucket]] that Vinth is fighting the [[Beep Boop]] copies alongside [[Marius#Relationships|Aeris]] and [[Nula#Relationships|Aric]], but he is hostile and is killed by one of the [[Beep Boop|Beep Boops]] before giving any more information.

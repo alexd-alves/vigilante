@@ -8,7 +8,7 @@ As they go in, they find a reception desk with a blonde human woman in a beige s
 
 ### [Exploring The Office](https://www.youtube.com/watch?v=tFXjflvbBJo)
 
-The receptionist's name is [[Reset#Known Members|Leah]]. She does not recognize [[Falsair]] and tells him that the [[Session 4#[The Battle of the Three Jeffs](https //www.youtube.com/watch?v=FdfGreUJSqw)|beige dwarf]] ran in without saying anything and she assumed that he was running to [[Kevin]]'s office. [[Falsair]] praises her, and tells her that she should take the rest of the day off and buy ~~her mama a house~~ something nice with company money. He also tells the business people to leave.
+The receptionist's name is [[Reset#Known Members|Leah]]. She does not recognize [[Falsair]] and tells him that the [[Session 4|beige dwarf]] ran in without saying anything and she assumed that he was running to [[Kevin]]'s office. [[Falsair]] praises her, and tells her that she should take the rest of the day off and buy ~~her mama a house~~ something nice with company money. He also tells the business people to leave.
 
 On [[Reset#Known Members|Leah]]'s desk they find a book where people have been signed in, but no names seem relevant. Having made it past reception, they untie themselves and look through the drawers of the desk. [[Meldohr]] finds a tablet with some runes on it and hands it over to [[Falsair]], who identifies the runes as teleportation runes leading to the teleportation circles under the city. [[Nula]] notices this too.
 

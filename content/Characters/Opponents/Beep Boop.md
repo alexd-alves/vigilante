@@ -6,5 +6,5 @@ After the [[Session 2|lab incident]], Beep Boop met the [[index#Players and Char
 
 ==Before the rest of the party joined this conversation, Beep Boop revealed to [[Evan]] that he was able to watch the party's actions through this portrait, as well as the smaller portraits in the lab.== [[Evan]] and [[Nula]] also noticed an engraving on Beep Boop's neck that read "Mk 7", which is strange as no Beep Boop copies are known to exist beyond Mk 6.
 
-During the [[Session 6#[Do You Think You're Better Off Alone](https //www.youtube.com/watch?v=Lgs9QUtWc3M)|bot fight]] at [[The Blue Bucket]], the [[index#Players|Party]] encounters a series of Beep Boop copies marked "Mk B" 
+During the [[Session 6|bot fight]] at [[The Blue Bucket]], the [[index#Players|Party]] encounters a series of Beep Boop copies marked "Mk B" 
 
