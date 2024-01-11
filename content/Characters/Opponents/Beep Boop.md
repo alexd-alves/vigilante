@@ -1,3 +1,4 @@
+![[Pasted image 20240111003415.png]]
 Beep Boop is a robot-looking being, known as one of [[Ondra]]'s "[[Ondra#Superheroes|Superheroes]]". He was created by fellow Superhero [[Benny]], alongside six sentries that look identical and each specialize in different skills. They are designated Mk 1-6.
 
 A very large portrait of him with red eyes was used to cover the tunnel entrance in [[Fenny's Home]], which led to a secret lab. Two smaller portraits were present within the lab.
