@@ -1,1 +1,7 @@
-Son of [[Tenda]], leader of the Council in [[Ondra]].
+>[!info] 
+>**Leader of the [[Ondra|Ondran]] Council**
+>
+
+| § | Relationships |
+| ---- | ---- |
+| [[Tenda]] | Tenda is Tenda Jr's father. |

@@ -1,1 +1,9 @@
-Father of [[Tenda Jr.]] Ended the war in [[Ondra]] 100 years ago by harnessing the source of magic beneath the city and is now in a coma state, unable to die.
+>[!info] 
+>**[[Ondra|Ondran]] Historic Character**
+>
+
+100 years ago, Tenda ended the war in [[Ondra]] by harnessing the power of the magic wellspring beneath the city. He was left in a coma and is unable to die.
+
+| § | Relationships |
+| ---- | ---- |
+| [[Tenda Jr.]] | Tenda is Tenda Jr's father. |
