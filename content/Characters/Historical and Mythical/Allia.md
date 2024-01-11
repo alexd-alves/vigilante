@@ -1,8 +1,7 @@
 >[!info] 
->**Ondran Goddess**
->
->![[Pasted image 20240111003835.png]]
+>**[[Ondra|Ondran]] Goddess**
+>*Aliases*: The Mother, The Creator
 
-Goddess worshipped in [[Ondra#Religion|Ondra]]. Also known as the Mother and the Creator.
-
-[[Meldohr|Meldohr]] is a priest of Allia.
+| § | Relationships |
+| ---- | ---- |
+| [[Meldohr]] | Meldohr is a priest of Allia. |
