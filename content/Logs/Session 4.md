@@ -33,7 +33,7 @@ While they discuss, [[Evan]] looks to see if there are files for [[Benny]], [[Be
 
 [[Marius]] allows [[Gal|Gal]] to look at [[Marius#Thello Family|Aeris]]'s file. [[Nula]] recognises him as one of the people she saw in her [[Session 3#[Making Their Way Downtown](https //www.youtube.com/watch?v=Cwkej79U3ek)|vision]], but he was not the one who looked hurt. [[Meldohr|Meldohr]] thinks that [[Ensari]] works in the same team as [[Marius#Thello Family|Aeris]] and [[Nula#Relationships|Aric]] even though [[Nula]] did not recognise her. The file also lists all of his jobs as completed, including a mission to infiltrate a [[Marius#Bode Family|Bode]] deal.
 
-[[Nula]] manages to scratch the redacted last mission in his file. The title reads "*Hidden Plot in Justice*". It is dated 11 days ago.
+[[Nula]] manages to scratch the redacted last mission in Aeris's file. The title reads "*Hidden Plot in Justice*". It is dated 11 days ago.
 
 The [[index#Players|Party]] agree that it is likely that [[Ensari]] and her team's mission is related to the [[Beep Boop]] [[Session 2|incident]], and that the files might have been redacted because of concerns of a mole in [[Barouk's Works]], which would be justified as [[Issha]] is compromised.
 
