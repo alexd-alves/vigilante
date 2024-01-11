@@ -422,11 +422,12 @@ th {
   text-align: left;
   padding: 0.4rem 0.7rem;
   border-bottom: 2px solid var(--gray);
+  border-top: 1px solid var(--gray);
 }
 
 td {
   padding: 0.2rem 0.7rem;
-  border: 1px solid;
+  border: 1px solid var(--gray);
 }
 
 tr {
