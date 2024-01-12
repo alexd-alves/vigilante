@@ -4,10 +4,17 @@
 >*Faction:* [[Barouk's Works]]
 >
 
-Issha is an employee at the [[index#Players and Characters|Party]]'s agency, [[Barouk's Works]], and the son of the [[Ensari|owner]] ~~nepotism 🤮~~ .
+Issha is an employee at the [[index#Players and Characters|Party]]'s agency, [[Barouk's Works]], and the son of the [[Ensari|owner]] ~~nepotism?🤮~~.
 
-After the [[Session 2|incident]] at [[Fenny's Home|Beep Boop's lab]] the [[index#Players|party]] left him alone with [[Beep Boop]]. Upon their return to [[Barouk's Works]] the next day, after the [[Session 3|Pub Quiz]], [[Meldohr|Meldohr]] noticed a camera-like device inside his right eye and he was behaving strangely.
-## Relationships
-* [[Ensari]] - Mother
-* Ahssi - Sibling
-* Haiche - Sibling
+| § | Relationships |
+| ---- | ---- |
+| [[Ensari]] | Issha's mother. |
+| Ahssi, <br>Haiche | Issha's siblings. |
+
+| § | Interactions |
+| ---- | ---- |
+| [[Session 4]] | #MissingHeroes [[Evan]] looks for Issha's HR file at [[Barouk's Works]], but is unable to find one. |
+| [[Session 3]] | #MissingHeroes When [[Nula]] asks Issha for information on the other hero teams at the agency, he refuses to release any. |
+| [[Session 3]] | #BeigeStalkers Returning to [[Barouk's Works]] for a second mission and to check on Issha, the Party find him very cheery. As he leads them to the meeting room, [[Meldohr]] notices a camera-like device in his right eye. |
+| [[Session 2]] | #MissLucysCats After destroying the lab in [[Fenny's Home]], the Party returns to [[Barouk's Works]] to find Issha freaking out at the door. He takes them to see [[Beep Boop]] and, once the Party leaves, he is left alone with the Superhero. |
+| [[Session 1]] | #MissLucysCats Issha introduces the Party's first mission. |
