@@ -4,7 +4,7 @@
 >*Faction:* [[Barouk's Works]]
 >
 
-Issha is an employee at the [[index#Players and Characters|Party]]'s agency, [[Barouk's Works]], and the son of the [[Ensari|owner]] ~~nepotism?🤮~~.
+Issha is an employee at the [[index#Players and Characters|Party]]'s agency, [[Barouk's Works]], and the son of the [[Ensari|owner]] ~~nepotism🤮~~.
 
 | § | Relationships |
 | ---- | ---- |

@@ -9,7 +9,7 @@ title: Home
 + Find out what the device in [[Issha]]'s eye is and what was done to him.
 + Must inform [[Miss Lucy]] of the fate of her cats.
 + What is up with [[Marius]]'s secret villainous backstory?? How does he know [[Vinth]]?
-+ ...bring [[Meldohr]] back, maybe.
++ ...bring [[Meldohr]] back, maybe?
 ## Major Locations
 + [[Ondra]]
 ## Players
@@ -25,4 +25,5 @@ title: Home
 + [[Session 3]] - 04/11/2023
 + [[Session 4]] - 19/11/2023
 + [[Session 5]] - 02/12/2023
++ [[Session 6]] - 16/12/2023
 
