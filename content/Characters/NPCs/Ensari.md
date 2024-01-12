@@ -9,8 +9,8 @@ Ensari runs the [[Barouk's Works]] hero agency in [[Ondra]] and is part of its f
 | § | Relationships |
 | ---- | ---- |
 | [[Issha]], <br>Ahssi, <br>Haiche | Ensari's children. |
-| [[Nula#Relationships\|Aric]] | Aric was part of [[Barouk's Works]]'s founding team alongside Ensari. |
-| [[Marius#Relationships\|Aeris Thello]] | [[Meldohr]] suspects Aeris is part of [[Barouk's Works]]'s founding team. |
+| [Aric](Characters/Players/Nula.md) | Aric was part of [[Barouk's Works]]'s founding team alongside Ensari. |
+| [Aeris Thello](Characters/Players/Marius.md) | [[Meldohr]] suspects Aeris is part of [[Barouk's Works]]'s founding team. |
 
 | § | Interactions |
 | ---- | ---- |
