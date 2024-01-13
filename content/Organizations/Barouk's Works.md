@@ -1,4 +1,4 @@
-A [[Ondra#Superheroes|Hero]] agency in the [[Ondra#Locations|Barouk District]] of [[Ondra]]. The [[index#Players|Party]] works for this agency.
+A [[Ondra#Superheroes|Hero]] agency in the [[Ondra#Locations|Barouk District]] of [[Ondra]]. The [[Characters/Players/index|Party]] works for this agency.
 
 It is run by [[Ensari]], and employs:
 

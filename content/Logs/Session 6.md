@@ -40,7 +40,7 @@ Eventually everyone goes up to their rooms to rest, while [[Marius]] decides to 
 
 Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming voice as [[Kevin]] and they get [[Gal]] and [[Falsair]]. ~~Meanwhile, [[Marius]] is chilling at home.~~ Going down to check on [[Evan]], [[Gal]] makes an entrance by sliding down the stairs. Everyone ~~except [[Marius]]~~ can now see [[Kevin]] and the rifts, as well as the people within them. 
 
-#missingHeroes [[Nula]] recognizes the woolly mammoth as [[Nula#Relationships|Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Marius#Thello Family|Aeris]]. 
+#MissingHeroes [[Nula]] recognizes the woolly mammoth as [[Nula#Relationships|Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Marius#Thello Family|Aeris]]. 
 
 > [!warning] Marius
 > Far, far away, [[Marius]] gets on his way to [[The Blue Bucket]] for breakfast with [[Meldohr]]. A few blocks away he can already hear [[Kevin]]'s screams so he walks faster, but he does not yet  know that his husband is there too.
@@ -73,6 +73,13 @@ The bots are very strong, and [[Marius#Thello Family|Aeris]] is getting pummeled
 
 At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Marius#Thello Family|Aeris]], bleeding on the ground as the bots stand over him, and immediately moves to his side. As [[Marius#Thello Family|Aeris]] sees him, he tells him to leave him behind and go, as at least one of them needs to stay alive to look after [[Marius#Relationships|Eudora]].
 
+> [!quote]
+> AERIS: Marius, you need to leave. Just leave me here, you need to go.
+> MARIUS: I'm not leaving, I'm never leaving you.
+> A: It's better that one of us survives. We cannot both die here, you need to go back and make sure Eudora is safe. Everything we've built is compromised.
+> M: Can't do it without you.
+> 
+
 On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Nula#Relationships|Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts.
 
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
@@ -85,4 +92,9 @@ Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep B
 
 With [[Vinth]] gone, the rifts slowly start to shrink and close. 
 
-Watching the rifts fall apart, [[Marius]] gives in and goes back into the rift after casting [Shield of Faith](https://roll20.net/compendium/dnd5e/Shield%20of%20Faith#content) on his husband.
+Watching the rifts fall apart, [[Marius]] gives in and goes back into the rift after casting [Shield of Faith](https://roll20.net/compendium/dnd5e/Shield%20of%20Faith#content) on his husband. Once [[Marius]] is out, [[Marius#Thello Family|Aeris]] goes over to [[Nula#Relationships|Aric]] and rolls him through another rift to get him to safety.
+
+> [!quote]
+> MARIUS: I know you will come back. If not for me, for Eudora.
+
+The rifts finally close and the [[Characters/Players/index|Party]] is back in [[The Blue Bucket]], along with [[Jeff Fishkin|Jeff]]'s dead body. [[Nula#Relationships|Aric]] is also there, unconscious, and will die soon if not healed.
