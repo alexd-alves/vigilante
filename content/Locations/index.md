@@ -8,7 +8,7 @@ title: Locations
 + [[Fenny's Home]]
 + [[Barouk's Works]] - HQ
 + [[Justice]] - Superhero HQ
-+ [[The Blue Bucket]] - pub ran by [[Paul (Bartender)|Paul]] and his [[Paul (Bartender)#Relationships|brother]]
++ [[The Blue Bucket]] - pub ran by [[Paul|Paul]] and his [[Paul#Relationships|brother]]
 + The Dirty Dart - pub
 + The Bloody Mammoth  - pub
 + [[Jeff's Lab]]

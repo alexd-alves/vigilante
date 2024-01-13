@@ -2,7 +2,7 @@
 
 It is Wednesday.
 
-The [[index#Players|Party]] (minus [[Evan]]) decides to take [[Jeff Fishkin|Jeff]] into the [[Jeff's Lab|beige tunnel]] to chase [[Kevin]] and he confirms that [[Kevin]] is indeed the person that he has been working with all along.
+The [[Characters/Players/index|Party]] (minus [[Evan]]) decides to take [[Jeff Fishkin|Jeff]] into the [[Jeff's Lab|beige tunnel]] to chase [[Kevin]] and he confirms that [[Kevin]] is indeed the person that he has been working with all along.
 
 As they go in, they find a reception desk with a blonde human woman in a beige suit sitting behind it, as well as multiple people in business suits sitting at the end of the room on sofas. [[Falsair]] disguises himself as [[Kevin]] and gets one of his zombie elves to carry him in, as he is much shorter. The other four and [[Jeff Fishkin|Jeff]] tie their own hands so that they can easily loosen the knots and pretend that they are captives.
 
@@ -20,7 +20,7 @@ After looking at the books, they decide to go through the door on the right, awa
 
 ### [Kevin's Laboratory](https://www.youtube.com/watch?v=FvTwxXTaISQ)
 
-[[Gal]] and [[Meldohr]] put on the overcoats and go into the airlock, leaving the rest of the [[index#Players|Party]] locked behind the first door. Beyond the second door they find a lab. There is a creature within a cage that seems to shift locations within, and three elves that are hanging from the wall and being observed by two beige people.
+[[Gal]] and [[Meldohr]] put on the overcoats and go into the airlock, leaving the rest of the [[Characters/Players/index|Party]] locked behind the first door. Beyond the second door they find a lab. There is a creature within a cage that seems to shift locations within, and three elves that are hanging from the wall and being observed by two beige people.
 
 They also notice two artefacts within the room, a golden cloak that disappears when being looked at, and a bracelet that changes color.
 
@@ -46,7 +46,7 @@ As [[Falsair]] touches the book, his eyes glaze over ==and he is ripped out of t
 
 [[Gal]] takes the color changing bracelet, and [[Meldohr]] takes the cloak, which seems to flicker as it changes in time. As he wears it, the cloak itself disappears but [[Meldohr]] is still visible underneath.
 
-[[Reset#Known Members|Clarence]] tells the [[index#Players|Party]] that the creature they saw in the cage is a time elemental. They discuss setting it free by cutting power to the whole building. [[Marius]] attempts to send the elemental a message, but receives no response.
+[[Reset#Known Members|Clarence]] tells the [[Characters/Players/index|Party]] that the creature they saw in the cage is a time elemental. They discuss setting it free by cutting power to the whole building. [[Marius]] attempts to send the elemental a message, but receives no response.
 
 ### [I Feel The Static](https://www.youtube.com/watch?v=4G6QDNC4jPs)
 
@@ -56,7 +56,7 @@ They decide to leave, tying [[Reset#Known Members|Clarence]] up and taking him w
 
 [[Marius]] tries to message the elemental once again and asks it to avoid causing destruction. They then leave the lab, [[Meldohr]] fireman carrying [[Reset#Known Members|Clarence]], who is so scared of him that he faints. [[Falsair]] also tells the rest that he is not able to use magic, as he is very tired.
 
-Once they have all exited, they have a conversation regarding the use of violence and what they should do next, as [[Marius]] is concerned about the [[index#Players|Party]]'s willingness to kill but [[Falsair]] disagrees. They also discuss whether it is a good time and place to fight [[Kevin]] and potentially [[Vinth]], or whether they should go back to the pub.
+Once they have all exited, they have a conversation regarding the use of violence and what they should do next, as [[Marius]] is concerned about the [[Characters/Players/index|Party]]'s willingness to kill but [[Falsair]] disagrees. They also discuss whether it is a good time and place to fight [[Kevin]] and potentially [[Vinth]], or whether they should go back to the pub.
 
 ### [A Gnome, an Elf and a Dwarf Waiting in the Sky](https://www.youtube.com/watch?v=aBKEt3MhNMM)
 

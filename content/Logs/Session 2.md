@@ -1,6 +1,6 @@
 *07/10/2023*
 
-The session starts in the room at the end of the secret tunnel in [[Fenny's Home]]. Two of the small [[Burning Cats]] lie on the ground, no longer in flames, while the remaining two are still engaging the [[index#Players|party]]. A large creature, formed from what appears to be another 22 dead cats, is now present in the room and ready to attack. It is winged and appears to be some sort of [[Dead Cat Dragon]].
+The session starts in the room at the end of the secret tunnel in [[Fenny's Home]]. Two of the small [[Burning Cats]] lie on the ground, no longer in flames, while the remaining two are still engaging the [[Characters/Players/index|Party]]. A large creature, formed from what appears to be another 22 dead cats, is now present in the room and ready to attack. It is winged and appears to be some sort of [[Dead Cat Dragon]].
 
 [[Evan]], still in his [[Beep Boop]] form, attempts unsuccessfully to attract the creature's attention, while [[Gal|Gal]] is still near the man on the hospital bed at the end of the room.
 
@@ -38,7 +38,7 @@ The party then joins [[Evan]] and [[Beep Boop]] in the meeting room. [[Gal|Gal]]
 
 [[Falsair]] shares his knowledge of the [[Ondra#Superheroes|Superheroes]], noting that [[Fengar]] is known to be more powerful than [[Beep Boop]], and that [[Beep Boop]] has six copies designated Mk 1-6, but not Mk 7.
 
-The party then decides to find a place to rest and visit the pubs in [[Ondra#Locations|Barouk District]] near the agency. They visit a pub called [[Ondra#Locations|The Blue Bucket]], run by an old man named [[Paul (Bartender)|Paul]]. [[Evan]] and [[Gal|Gal]] make an arrangement with Paul to host a pub quiz in exchange for free drinks for the party, as well as a room for [[Gal|Gal]] to use as a dressing room. 
+The party then decides to find a place to rest and visit the pubs in [[Ondra#Locations|Barouk District]] near the agency. They visit a pub called [[Ondra#Locations|The Blue Bucket]], run by an old man named [[Paul|Paul]]. [[Evan]] and [[Gal|Gal]] make an arrangement with Paul to host a pub quiz in exchange for free drinks for the party, as well as a room for [[Gal|Gal]] to use as a dressing room. 
 
 Everyone gets a free drink as a sample and they sit down to drink underneath a taxidermized octopus while [[Gal|Gal]] goes upstairs to take a bath.
 

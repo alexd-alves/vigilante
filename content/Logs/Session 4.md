@@ -2,7 +2,7 @@
 
 It is Wednesday.
 
-The [[index#Players|Party]] is in the HR office at [[Barouk's Works]]. ==[[Nula]] has a file on [[Marius]] that she took out of the broken drawer. [[Evan]] is in the building, and sees [[Barouk's Works|Karen]] leave the building in tears.==
+The [[Characters/Players/index|Party]] is in the HR office at [[Barouk's Works]]. ==[[Nula]] has a file on [[Marius]] that she took out of the broken drawer. [[Evan]] is in the building, and sees [[Barouk's Works|Karen]] leave the building in tears.==
 
 To make sure that no one enters the office while the rest look through the drawers, [[Falsair]] disguises himself as [[Barouk's Works|Karen]] and stands guard outside of the door. ==While he is outside, [[Evan]] almost kills him by startling him to ask where the rest are.== 
 ### [Evan Are You Okay?](https://www.youtube.com/watch?v=CDl9ZMfj6aE)
@@ -11,7 +11,7 @@ Once inside, [[Marius]] asks [[Evan]] what where he has been, and he responds ou
 
 [[Meldohr|Meldohr]] finds the key to the office's door and locks it behind [[Marius]] and [[Falsair]]. Hearing the lock, [[Falsair]] leaves to go find his cats and explore the building. He successfully makes a call and finds one of his cats locked in a broom cupboard upstairs. He commands it to find the sabre-tooth tiger Daddy and the rest of the cats.
 
-Meanwhile, [[Marius]] has also walked upstairs and sees [[Falsair]] return, still disguised as [[Barouk's Works|Karen]]. He goes to reception to find the pigeon holes where mail is kept. His own pigeon hole is empty, and as he places a note in his husband's he notices that the last note he left has gone uncollected. He then makes his way back to the rest of the [[index#Players|Party]].
+Meanwhile, [[Marius]] has also walked upstairs and sees [[Falsair]] return, still disguised as [[Barouk's Works|Karen]]. He goes to reception to find the pigeon holes where mail is kept. His own pigeon hole is empty, and as he places a note in his husband's he notices that the last note he left has gone uncollected. He then makes his way back to the rest of the [[Characters/Players/index|Party]].
 ### [Rattle That Lock](https://www.youtube.com/watch?v=L1v7hXEQhsQ)
 
 Back in the HR office, [[Meldohr|Meldohr]] and [[Gal|Gal]] start trying keys in the locks. [[Nula]] pulls out [[Marius]]'s file and, concerned that it is an invasion of privacy, she gives it to [[Evan]] while the rest peek over his shoulder.
@@ -35,7 +35,7 @@ While they discuss, [[Evan]] looks to see if there are files for [[Benny]], [[Be
 
 [[Nula]] manages to scratch the redacted last mission in Aeris's file. The title reads "*Hidden Plot in Justice*". It is dated 11 days ago.
 
-The [[index#Players|Party]] agree that it is likely that [[Ensari]] and her team's mission is related to the [[Beep Boop]] [[Session 2|incident]], and that the files might have been redacted because of concerns of a mole in [[Barouk's Works]], which would be justified as [[Issha]] is compromised.
+The [[Characters/Players/index|Party]] agree that it is likely that [[Ensari]] and her team's mission is related to the [[Beep Boop]] [[Session 2|incident]], and that the files might have been redacted because of concerns of a mole in [[Barouk's Works]], which would be justified as [[Issha]] is compromised.
 
 [[Gal|Gal]] also tries to take [[Evan]]'s file but it is gone, and once again [[Evan]] runs away.
 
@@ -53,9 +53,9 @@ The item was created to duplicate the magical source within a person to allow th
 [[Jeff Fishkin|Jeff]] then explains that he took the artefact out of the office as he was worried that it might explode as it is a very experimental piece of equipment. He does not work for anyone in particular, but he receives money from different organisations for research purposes. [[Gal|Gal]] offers him a job with her, where he would not be at risk.
 ### [The Battle of the Three Jeffs](https://www.youtube.com/watch?v=FdfGreUJSqw)
 
-To move [[Jeff Fishkin|Jeff]] to his office safely, [[Falsair]] and [[Evan]] disguise themselves as [[Jeff Fishkin|Jeff]]. [[Evan]] manages to grab the real briefcase with only [[Nula]] and [[Meldohr|Meldohr]] noticing. [[Meldohr|Meldohr]] asks [[Evan]] whether he thinks it is safe if he is being chased by birds, but [[Evan]] is confident that they will not recognise him with his disguise. [[Meldohr|Meldohr]] also tries to use [Dispel Magic](https://www.dndbeyond.com/spells/dispel-magic) on [[Jeff Fishkin|Jeff]], in case the beige people are hallucinations caused by some form of magic.
+To move [[Jeff Fishkin|Jeff]] to his office safely, [[Falsair]] and [[Evan]] disguise themselves as [[Jeff Fishkin|Jeff]]. [[Evan]] manages to grab the real briefcase with only [[Nula]] and [[Meldohr|Meldohr]] noticing. [[Meldohr|Meldohr]] asks [[Evan]] whether he thinks it is safe if he is being chased by birds, but [[Evan]] is confident that they will not recognize him with his disguise. [[Meldohr|Meldohr]] also tries to use [Dispel Magic](https://www.dndbeyond.com/spells/dispel-magic) on [[Jeff Fishkin|Jeff]], in case the beige people are hallucinations caused by some form of magic.
 
-The [[index#Players|Party]] then leaves [[Barouk's Works]] in formation to protect [[Jeff Fishkin|Jeff]] on the way to the office. [[Marius]] tries to spot any celestials, fiends or undead nearby but does not notice anything. [[Nula]] does spot 5 robins flying 70 or 80 ft above them, but when [[Falsair]] tries to message them there is no answer. As they turn a corner, they are gone.
+The [[Characters/Players/index|Party]] then leaves [[Barouk's Works]] in formation to protect [[Jeff Fishkin|Jeff]] on the way to the office. [[Marius]] tries to spot any celestials, fiends or undead nearby but does not notice anything. [[Nula]] does spot 5 robins flying 70 or 80 ft above them, but when [[Falsair]] tries to message them there is no answer. As they turn a corner, they are gone.
 
 Once they arrive to [[Jeff Fishkin|Jeff]]'s office they look inside. There are stairs and a corridor that force them to go in a single file, with the Jeffs in the middle, and [[Nula]] leading.
 
@@ -65,7 +65,7 @@ As they get to the room that is the actual office, they see a chair in the middl
 
 [[Evan]] then goes talk to [[Kevin]] with [[Nula]] while the real [[Jeff Fishkin|Jeff]] waits outside with [[Falsair]] to feed him answers, but [[Kevin]] immediately sees past the disguise. Meanwhile, [[Marius]] places [[Gal|Gal]]'s Glorious Goods logo on the briefcase, and she booby traps it in case [[Kevin]] manages to take it. [[Meldohr|Meldohr]] also casts [Death Ward]() on the real [[Jeff Fishkin|Jeff]].
 
-[[Nula]] tries to look into [[Kevin]]'s thoughts but he resists it. She then asks him if he is [[Kevin]], and he answers that he is but maybe not the Kevin that they are thinking of. She also asks why he wants the artefacts and who he works for which angers him, and as he begins to step towards the [[index#Players|Party]] five other people appear in the room, all dressed in beige suits.
+[[Nula]] tries to look into [[Kevin]]'s thoughts but he resists it. She then asks him if he is [[Kevin]], and he answers that he is but maybe not the Kevin that they are thinking of. She also asks why he wants the artefacts and who he works for which angers him, and as he begins to step towards the [[Characters/Players/index|Party]] five other people appear in the room, all dressed in beige suits.
 
 Seeing this, [[Falsair]] pushes the real [[Jeff Fishkin|Jeff]] back towards [[Meldohr|Meldohr]] and [[Marius]] and comes in to talk to [[Kevin]]. He convinces him that he has hidden the briefcase in an alleyway near the [[Justice]] building. [[Kevin]] intends to drag him there to find it, and spectral arms begin to appear around him, illuminating the room. The beige people behind him are two gnomes, two elves and a dwarf, and with the light around him some machinery in the room becomes visible too. There are two sets of handwheels at the back of the room and a pair of coats that can be worn as protection into the kiln.
 
@@ -86,7 +86,7 @@ As [[Marius]] and [[Meldohr|Meldohr]] get [[Falsair]] up, [[Gal|Gal]] gets the r
 
 [[Evan]] searches the bodies of the dead henchmen and finds some healing potions on them.
 
-Some concerns are raised in regards to the scope of the mission, but eventually the [[index#Players|Party]] decides to chase [[Kevin]] into his office without resting, even though [[Nula]] knows that his real body will be unharmed. However, if they follow, he might not have time to prepare for a confrontation. Before they go ahead, [[Falsair]] raises the three dead henchmen as zombies.
+Some concerns are raised in regards to the scope of the mission, but eventually the [[Characters/Players/index|Party]] decides to chase [[Kevin]] into his office without resting, even though [[Nula]] knows that his real body will be unharmed. However, if they follow, he might not have time to prepare for a confrontation. Before they go ahead, [[Falsair]] raises the three dead henchmen as zombies.
 
 
 

@@ -1,3 +1,9 @@
-Local old lady. She lives in a thatch [[Miss Lucy's Home|Cottage]] in the [[Ondra#Locations|Barouk District]] of [[Ondra]], opposite [[Fenny's Home]]. 
+>[!info] 
+>**Local Old Lady**
+>
 
-She owns 24 cats that she calls her "children" and hired the [[index#Players and Characters|party]] to find the cats after they disappeared, accusing her neighbour [[Fenny]] of taking them.
+Miss Lucy lives in a thatch [[Miss Lucy's Home|Cottage]] in the [[Ondra#Locations|Barouk District]] of [[Ondra]], opposite [[Fenny's Home]]. 
+
+| § | Interactions |
+| ---- | ---- |
+| [[Session 1]] | #MissLucysCats The Party is tasked with finding Miss Lucy's 24 cats. She believes that her neighbor [[Fenny]] has taken them. While searching for the cats, the Party encounters [[Fengar]] and a secret lab in [[Fenny's Home]], leading to a later confrontation with [[Beep Boop]].  |

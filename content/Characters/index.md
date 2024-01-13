@@ -14,7 +14,7 @@ title: Characters
 | [[Issha]] |  | ? | [[Barouk's Works]] | [[Characters/NPCs/index\|NPCs]] |
 | [[Jeff Fishkin]] |  | Human? | None | [[Characters/NPCs/index\|NPCs]] |
 | [[Miss Lucy]] |  | Human? | None | [[Characters/NPCs/index\|NPCs]] |
-| [[Paul (Bartender)]] |  | Human | None | [[Characters/NPCs/index\|NPCs]] |
+| [[Paul]] |  | Human | None | [[Characters/NPCs/index\|NPCs]] |
 | [[Beep Boop]] |  | Robot | [Justice](Locations/Ondra/Ondra.md) | [[Characters/Opponents/index\|Opponents]] |
 | [[Fenny]] | [[Fengar]]? | Human? | None | [[Characters/Opponents/index\|Opponents]] |
 | [[Kevin]] |  | [Aarakocra](https://www.dndbeyond.com/races/4-aarakocra) | [[Reset]] | [[Characters/Opponents/index\|Opponents]] |

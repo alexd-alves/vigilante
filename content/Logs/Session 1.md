@@ -1,6 +1,6 @@
 *07/10/2023*
 
-The [[index#Players and Characters|party]] starts in a meeting room within the building of their hero agency. They have not met before. Here they are introduced to their first mission by [[Issha]], which is to find [[Miss Lucy]]'s 24 cats.
+The [[Characters/Players/index|Party]] starts in a meeting room within the building of their hero agency. They have not met before. Here they are introduced to their first mission by [[Issha]], which is to find [[Miss Lucy]]'s 24 cats.
 
 After introducing themselves to each other, the party visits [[Miss Lucy's Home]] to find out more about the cats and the situation, and learns that Miss Lucy has been having trouble with her neighbor [[Fenny]], who lives [[Fenny's Home|across]] from her.
 

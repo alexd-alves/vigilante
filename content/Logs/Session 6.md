@@ -2,9 +2,9 @@
 
 >[!note]  Wednesday evening.
 
-The [[index#Players|Party]] gets on their way to [[The Blue Bucket]], planning on resting for the night before returning to confront [[Kevin]], even though they sent the [[Reset|beige people]] to drink there. [[Falsair]] is still being followed by the ==Chronal Book==.
+The [[Characters/Players/index|Party]] gets on their way to [[The Blue Bucket]], planning on resting for the night before returning to confront [[Kevin]], even though they sent the [[Reset|beige people]] to drink there. [[Falsair]] is still being followed by the ==Chronal Book==.
 
-As they arrive to [[The Blue Bucket]],they find the place very busy, as it is now a very popular place thanks to [[Gal]]'s Pub Quiz. [[Evan]] is inside, playing rollies and drinking with the [[Reset|beige people]]. [[Meldohr]] spends some time helping [[Paul (Bartender)]] while [[Falsair]] gets a free room key to go rest. [[Gal]] decides to share room with [[Falsair]] while [[Meldohr]] and [[Nula]] get their own rooms.
+As they arrive to [[The Blue Bucket]],they find the place very busy, as it is now a very popular place thanks to [[Gal]]'s Pub Quiz. [[Evan]] is inside, playing rollies and drinking with the [[Reset|beige people]]. [[Meldohr]] spends some time helping [[Paul]] while [[Falsair]] gets a free room key to go rest. [[Gal]] decides to share room with [[Falsair]] while [[Meldohr]] and [[Nula]] get their own rooms.
 
 ### [It Look Like I Been Cookin'](https://www.youtube.com/watch?v=a4NYSwNAo08)
 
@@ -58,7 +58,7 @@ On the other side, [[Meldohr]] tries to talk to [[Kevin]], but he is too focused
 
 ### [Wannabe Machine World Overlords](https://www.youtube.com/watch?v=iAu-543810Y)
 
-Now that the [[index#Players|Party]] is closer to the [[Beep Boop|Beep Boops]], they can see that the bots are marked as "Mk B(x)" and that the one marked as Mk B1 looks slightly different, indicating that he is the leader of the formation.
+Now that the [[Characters/Players/index|Party]] is closer to the [[Beep Boop|Beep Boops]], they can see that the bots are marked as "Mk B(x)" and that the one marked as Mk B1 looks slightly different, indicating that he is the leader of the formation.
 
 [[Falsair]] tries to reason with [[Vinth]], but he is unwilling to listen and turns to fight the Party. Then, after creating some black squid tentacles to hold the bots down, [[Falsair]] fails to fight the pull of a nearby rift and gets sucked back into the pub. As he is pulled in, [[Vinth]] recognizes him.
 

@@ -8,18 +8,18 @@ It is [[Nula]]'s first job, following in the footsteps of her late brother's clo
 
 [[Falsair]] asks about [[Meldohr|Meldohr]] and [[Marius]]'s religious beliefs. [[Marius]] says that he is not religious, but rather has a duty to make the world a better place for his [[Marius#Relationships|daughter]], who is around 7 years old and is currently living with his husband's parents.
 
-During this conversation, the [[index#Players|Party]] also discusses [[Evan]]'s tendency to disappear and go off on his own. He tried to hide to prove a point, but instead just slips under the table.
+During this conversation, the [[Characters/Players/index|Party]] also discusses [[Evan]]'s tendency to disappear and go off on his own. He tried to hide to prove a point, but instead just slips under the table.
 
-Getting ready to go ahead with the Pub Quiz that they had agreed with [[Paul (Bartender)]], [[Meldohr|Meldohr]] goes upstairs to take off his chainmail while [[Gal|Gal]] puts on a sequin top. They discuss [[Evan]] before going down, and take a blanket for him as they are concerned by his behaviour.
+Getting ready to go ahead with the Pub Quiz that they had agreed with [[Paul]], [[Meldohr|Meldohr]] goes upstairs to take off his chainmail while [[Gal|Gal]] puts on a sequin top. They discuss [[Evan]] before going down, and take a blanket for him as they are concerned by his behavior.
 ### [I'm telling y'all, it's a Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)
 
-Once downstairs, the [[index#Players|Party]] has a conversation about how to bring patrons in for the Pub Quiz. [[Meldohr|Meldohr]] suggests showing off his strength as a circus act, while [[Evan]] demonstrates how he can summon his bow, which the [[index#Players|Party]] decides to call "Evan's Essence". They also chat some more with [[Paul (Bartender)|Paul]], and discover that his male ancestors are called Taul, Daul, and Andrew.
+Once downstairs, the [[Characters/Players/index|Party]] has a conversation about how to bring patrons in for the Pub Quiz. [[Meldohr|Meldohr]] suggests showing off his strength as a circus act, while [[Evan]] demonstrates how he can summon his bow, which the [[Characters/Players/index|Party]] decides to call "Evan's Essence". They also chat some more with [[Paul|Paul]], and discover that his male ancestors are called Taul, Daul, and Andrew.
 
 Finally, they decide to bring people in by going to the other two pubs in the area, the [[Ondra#Locations|Dirty Gnat]] and the [[Ondra#Locations|Bloody Mammoth]], and poaching their patrons. [[Gal|Gal]] crafts 4 stink bombs before going, with the intention to sabotage them.
 
 Meanwhile, [[Nula]] hears a message in her mind from her late brother [[Nula#Relationships|Ryland]]'s friend, [[Nula#Relationships|Aric]], telling her that he is going on a dangerous mission and warning her to be careful. [[Nula]] and [[Nula#Relationships|Aric]] are very close. [[Marius]]'s husband has sent a similar message at the same time, although [[Marius]] thinks that it is not particularly unusual. Both [[Nula#Relationships|Aric]] and [[Marius]]'s husband work at [[Barouk's Works]], but they are not sure whether they work together in the same team.
 
-While they are all concerned about this, they decide to go ahead with the Pub Quiz and honour their deal with [[Paul (Bartender)|Paul]].
+While they are all concerned about this, they decide to go ahead with the Pub Quiz and honour their deal with [[Paul|Paul]].
 
 [[Marius]] and [[Meldohr|Meldohr]], less keen on sabotage, stay back to talk to people as they come out of the pubs into the street. [[Evan]] gets a board with samples, drinks them all and then stands outside impressively spinning the board as a sign.
 
@@ -29,15 +29,15 @@ As people come out of the pubs, they are herded into the [[Ondra#Locations|Blue 
 
 ### Gal Glitterbomb's Glorious Grogshop Gameshow
 
-Inside the pub, while [[Paul (Bartender)|Paul]] attempts to explain what a Pub Quiz is, [[Marius]] and [[Falsair]] create effects for [[Gal|Gal]]'s entrance. She climbs up on the bar and plays the Glaur, which looks like a cornucopia and sounds like a trumpet. She tells the crowd to tell them to buy their drinks and sit down.
+Inside the pub, while [[Paul|Paul]] attempts to explain what a Pub Quiz is, [[Marius]] and [[Falsair]] create effects for [[Gal|Gal]]'s entrance. She climbs up on the bar and plays the Glaur, which looks like a cornucopia and sounds like a trumpet. She tells the crowd to tell them to buy their drinks and sit down.
 
-[[Meldohr|Meldohr]] and [[Nula]] help [[Paul (Bartender)|Paul]] pour drinks, as the pub is now beginning to fill up. [[Evan]] is outside, trying to form a queue and charge people for entering the pub, while [[Marius]] takes the team names inside and tries to charge participants again.
+[[Meldohr|Meldohr]] and [[Nula]] help [[Paul|Paul]] pour drinks, as the pub is now beginning to fill up. [[Evan]] is outside, trying to form a queue and charge people for entering the pub, while [[Marius]] takes the team names inside and tries to charge participants again.
 
-The [[Ondra#Locations|Party]] decides that the prize, which is a surprise, will actually be 5 GP, with additional points given to the team that buys most drinks and the team with the best team name. They also find out that [[Paul (Bartender)|Paul]]'s brother and co-owner is named Saul.
+The [[Ondra#Locations|Party]] decides that the prize, which is a surprise, will actually be 5 GP, with additional points given to the team that buys most drinks and the team with the best team name. They also find out that [[Paul|Paul]]'s brother and co-owner is named Saul.
 
 [[Nula]] and [[Falsair]] form a team as well: Meldohr on the Dance Floor.
 
-At this point, the pub is very busy and there is a long queue outside. [[Meldohr|Meldohr]] begins selling drinks through the window at the front, keeping the money aside with the intention to pay [[Paul (Bartender)|Paul]] for the kegs.
+At this point, the pub is very busy and there is a long queue outside. [[Meldohr|Meldohr]] begins selling drinks through the window at the front, keeping the money aside with the intention to pay [[Paul|Paul]] for the kegs.
 
 ==While outside working as a bouncer, [[Evan]] notices 5 robins, flying 40 to 50 feet away, possibly watching.==
 
@@ -58,7 +58,7 @@ The Pub Quiz is very successful, with the following teams twelve teams taking pa
 
 Name Team wins the Pub Quiz after a tie breaker with Meldohr on the Dance Floor involving chugging a drink as fast as possible, despite [[Falsair]]'s attempts to cheat with a Command spell. They winning team takes 5 GP as a prize.
 
-[[Meldohr|Meldohr]] earns 154 GP serving drinks at the window, but he pays [[Paul (Bartender)|Paul]] 48 GP for the four kegs used, while [[Gal|Gal]] manages to collect some tips. Once the pub is quiet, the [[index#Players|Party]] decides to meet in the same place in the morning to go check on [[Issha]] at [[Barouk's Works]].
+[[Meldohr|Meldohr]] earns 154 GP serving drinks at the window, but he pays [[Paul|Paul]] 48 GP for the four kegs used, while [[Gal|Gal]] manages to collect some tips. Once the pub is quiet, the [[Characters/Players/index|Party]] decides to meet in the same place in the morning to go check on [[Issha]] at [[Barouk's Works]].
 
 ### [Making Their Way Downtown](https://www.youtube.com/watch?v=Cwkej79U3ek)
 
@@ -74,21 +74,21 @@ Name Team wins the Pub Quiz after a tie breaker with Meldohr on the Dance Floor 
 
 ### [Faded in the Morning](https://www.youtube.com/watch?v=KL2XVzckCI0)
 
-In the morning, the [[index#Players|Party]] meets at the [[Ondra#Locations|Blue Bucket]] to have breakfast. 
+In the morning, the [[Characters/Players/index|Party]] meets at the [[Ondra#Locations|Blue Bucket]] to have breakfast. 
 
 [[Nula]] gives [[Meldohr|Meldohr]] permission to pluck a feather from her when she transforms into an owl. She also tells the others what she saw when she tried to see [[Nula#Relationships|Aric]]: he was hiding along with three other people that she did not recognise near a skyscraper and they were hit by some form of magic, causing one of them to start convulsing, and then there was a big explosive. [[Marius]] describes his husband, but [[Nula]] is so shaken up that she cannot tell whether she saw him.
 
-After waiting for [[Evan]] for a while they decide to leave him a note, telling him that they have gone to [[Barouk's Works]]. [[Marius]] thinks that the [[index#Players|Party]] should be careful not to overwhelm [[Issha]], while [[Falsair]] suggests they speak to [[Barouk's Works|Karen]] from HR. 
+After waiting for [[Evan]] for a while they decide to leave him a note, telling him that they have gone to [[Barouk's Works]]. [[Marius]] thinks that the [[Characters/Players/index|Party]] should be careful not to overwhelm [[Issha]], while [[Falsair]] suggests they speak to [[Barouk's Works|Karen]] from HR. 
 
 On the way, they discuss [[Nula]]'s vision. [[Gal|Gal]] says that she has not seen any skyscrapers in [[Ondra]], but [[Falsair]] identifies the building as "[[Justice]]", the [[Ondra#Superheroes|Superhero's]] HQ. [[Nula]] also notes that she saw [[Nula#Relationships|Aric]] speaking to his companions in a language that she did not recognize, but is unable to demonstrate. [[Marius]] and [[Nula]] are convinced that [[Nula#Relationship|Aric]] is not up to anything nefarious.
 
-Once at [[Barouk's Works]], the [[index#Players|Party]] heads to reception, where they encounter [[Issha]]. He is very confident and upbeat, which is somewhat confusing. [[Meldohr|Meldohr]] notices a device in [[Issha]]'s right eye and tries to speak to [[Falsair]] while [[Issha]] leads them to the meeting room upstairs. As [[Issha]] notices them speaking, [[Falsair]] initiates a mental conversation, and once [[Meldohr|Meldohr]] tells him of the device he goes ahead and relays this to the rest of the [[index#Players|Party]] (minus [[Evan]]). 
+Once at [[Barouk's Works]], the [[Characters/Players/index|Party]] heads to reception, where they encounter [[Issha]]. He is very confident and upbeat, which is somewhat confusing. [[Meldohr|Meldohr]] notices a device in [[Issha]]'s right eye and tries to speak to [[Falsair]] while [[Issha]] leads them to the meeting room upstairs. As [[Issha]] notices them speaking, [[Falsair]] initiates a mental conversation, and once [[Meldohr|Meldohr]] tells him of the device he goes ahead and relays this to the rest of the [[Characters/Players/index|Party]] (minus [[Evan]]). 
 
 [[Issha]] gives the team a new mission: they must escort [[Jeff Fishkin]] home from the [[Barouk's Works]] building. He is desperate and believes that he is being followed home. He is also receiving death threats. He works at a "top secret" location, developing magical items.
 
 [[Issha]] also mentions his mother, [[Ensari]], and his siblings: [[Issha#Relationships|Ahssi]] and [[Issha#Relationships|Haiche]]. He also tries to grill [[Meldohr|Meldohr]], but [[Gal|Gal]] distracts him by asking what kind of cologne he is wearing.
 
-[[Nula]] asks [[Issha]] about obtaining information on other teams that work at the agency, but he says it is very confidential. The [[index#Players|Party]] decides to speak to [[Barouk's Works|Karen]] instead, who has an office down the hall.
+[[Nula]] asks [[Issha]] about obtaining information on other teams that work at the agency, but he says it is very confidential. The [[Characters/Players/index|Party]] decides to speak to [[Barouk's Works|Karen]] instead, who has an office down the hall.
 
 ### [Somebody Told Him](https://www.youtube.com/watch?v=Y5fBdpreJiU)
 
@@ -104,6 +104,6 @@ Once at [[Barouk's Works|Jenny]]'s door, [[Gal|Gal]] convinces [[Barouk's Works|
 
 Back inside the HR office, she demands that [[Meldohr|Meldohr]] tells her what [[Barouk's Works|Jenny]] has said about her. He tells her that she called her mother a whore, which [[Barouk's Works|Karen]] agrees is accurate, and that she saw her and [[Barouk's Works|John]] the Janitor spending time alone in her office.
 
-Hoping that [[Falsair]] can convince her to release the confidential files, the rest of the [[index#Players|Party]] waits outside while they stay inside the HR office. ==He frightens her and tells her that she has probably really upset [[Barouk's Works|Jenny]], and that this could cost her her job. He then convinces her to go home and take some time to look after her own mental health before returning to log a complaint against herself on behalf of [[Barouk's Works|Jenny]].==
+Hoping that [[Falsair]] can convince her to release the confidential files, the rest of the [[Characters/Players/index|Party]] waits outside while they stay inside the HR office. ==He frightens her and tells her that she has probably really upset [[Barouk's Works|Jenny]], and that this could cost her her job. He then convinces her to go home and take some time to look after her own mental health before returning to log a complaint against herself on behalf of [[Barouk's Works|Jenny]].==
 
 Once he is alone in the office he calls the team back in to help him, as [[Barouk's Works|Karen]] has left him a set of 50 keys that match 35 locks in the office. [[Gal|Gal]] and [[Meldohr|Meldohr]] try to identify any patterns in the keys and locks, but they both fail.
