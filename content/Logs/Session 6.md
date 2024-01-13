@@ -84,3 +84,5 @@ Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep B
 > [!fail] The Party watches as both Vinth and Meldohr instantly turn to piles of fine gray dust, along with everything that they were carrying.
 
 With [[Vinth]] gone, the rifts slowly start to shrink and close. 
+
+Watching the rifts fall apart, [[Marius]] gives in and, 
