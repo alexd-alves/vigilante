@@ -85,4 +85,4 @@ Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep B
 
 With [[Vinth]] gone, the rifts slowly start to shrink and close. 
 
-Watching the rifts fall apart, [[Marius]] gives in and, 
+Watching the rifts fall apart, [[Marius]] gives in and goes back into the rift after casting [Shield of Faith](https://roll20.net/compendium/dnd5e/Shield%20of%20Faith#content) on his husband.
