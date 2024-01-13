@@ -75,8 +75,11 @@ At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Marius#Thell
 
 > [!quote]
 > <font color="grey">AERIS</font>: Marius, you need to leave. Just leave me here, you need to go.
+> 
 > <font color="grey">MARIUS</font>: I'm not leaving, I'm never leaving you.
+> 
 > <font color="grey">A</font>: It's better that one of us survives. We cannot both die here, you need to go back and make sure Eudora is safe. Everything we've built is compromised.
+> 
 > <font color="grey">M</font>: Can't do it without you.
 > 
 
