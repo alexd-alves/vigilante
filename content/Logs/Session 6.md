@@ -10,7 +10,7 @@ As they arrive to [[The Blue Bucket]],they find the place very busy, as it is no
 
 [[Falsair]] goes to his room while everyone else gathers at the Octopus table. [[Meldohr]] uses the pub's kitchen to make a stew, and he makes plans with [[Marius]] to cook breakfast and try to sell it in the morning.
 
->[!warning] [[Falsair]]
+>[!warning] Falsair
 > While the rest makes the meal, [[Falsair]] spends some time in his room attuning to the Chronal Book. While he does not recover his ability to use magic yet, he learns of some perks of having the Book. He also learns that the Book is in an "Unawakened" state.
 >
 
@@ -24,14 +24,14 @@ Eventually everyone goes up to their rooms to rest, while [[Marius]] decides to 
 
 > [!note] Thursday morning. [[Marius]] is not present.
 
-> [!warning] [[Evan]]
+> [!warning] Evan
 > In the morning, [[Evan]] wakes up in the booth downstairs, having slept there with [[Jeff]]. He notices "cracks" forming in the air inside the pub, sort of like tears or rifts in space, crackling and pulsating. He notices that the energy is similar as that of [[Kevin]]'s astral arms. 
 > 
 > [[Evan]] decides to shoot an arrow through one of the rifts, and watches it disappear in it and then fly out from a rift across the room. The energy begins to build around the front door as it slams open, revealing [[Kevin]].
 
 #BeigeStalkers [[Kevin]] is screaming in agony, waking everyone up. Half of his body almost burnt off, his limbs on that side ripped off and replaced by the astral limbs.
 
-> [!warning] [[Evan]]
+> [!warning] Evan
 > [[Kevin]] demands [[Jeff Fishkin|Jeff]] and his artifact. Instead, [[Evan]] chooses to grab a mug and throw it into the rift, making it shoot out directly at [[Kevin]], but he is able to deflect it. [[Evan]] notices that using his energy to deflect the mug causes the rifts to open up further, the astral plane behind them becoming visible. In one of them a man in a beige suit is visible, as well as a tall elven man and a woolly mammoth, all fighting against a large formation of [[Beep Boop|Beep Boops]]. 
 >
 > [[Evan]] tries to get [[Jeff Fishkin|Jeff]] to run upstairs and warn the others, but accidentally knocks him out instead. 
@@ -41,7 +41,7 @@ Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming vo
 
 #missingHeroes [[Nula]] recognizes the woolly mammoth as [[Nula#Relationships|Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Marius#Thello Family|Aeris]]. 
 
-> [!warning] [[Marius]]
+> [!warning] Marius
 > Far, far away, [[Marius]] gets on his way to [[The Blue Bucket]] for breakfast with [[Meldohr]]. A few blocks away he can already hear [[Kevin]]'s screams so he walks faster, but he does not know that his husband is there.
 > 
 
@@ -49,11 +49,15 @@ Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming vo
 
 Realizing the seriousness of the situation, [[Gal]] and [[Falsair]] decide to hand the briefcase over, and [[Meldohr]] proposes giving it to [[Vinth]] directly. While this exchange is happening, [[Evan]] throws another mug at a rift to see what happens, and they all watch as the mug is sheared in half when it impacts the edge of the rift, one side going through and the other flying past and exploding against the wall.
 
-[[Nula]] then takes the briefcase and walks into the closest rift. 
+[[Nula]] then takes the briefcase and walks into the closest rift. She tries to shout but is unable to get her friend's attention, so she goes to him and opens the briefcase, revealing a spinning metal orb which she throws at [[Nula#Relationships|Aric]]. 
+
+On the other side, [[Meldohr]] tries to talk to [[Kevin]], but he is too focused on concentrating energy. He tries to use [Dispel Magic](https://roll20.net/compendium/dnd5e/Dispel%20Magic#content) to stop what [[Kevin]] is doing but it has no effect on it. Suddenly, [[Kevin]]'s energy becomes still, and the whole pub flickers into the astral plane. Everyone is now in the battlefield and [[Kevin]] yells out at [[Vinth]], warning him that the Party is the one that destroyed their base as his body falls apart.
 
 ### [Wannabe Machine World Overlords](https://www.youtube.com/watch?v=iAu-543810Y)
 
+Now that the [[index#Players|Party]] is closer to the [[Beep Boop|Beep Boops]], they can see that the bots are marked as "Mk B(x)" and that the one marked as Mk B1 looks slightly different, indicating that he is the leader of the formation.
 
+[[Falsair]] tries to reason with [[Vinth]], but he is unwilling to listen and turns to fight the Party.
 
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 
