@@ -37,6 +37,19 @@ Eventually everyone goes up to their rooms to rest, while [[Marius]] decides to 
 > [[Evan]] tries to get [[Jeff Fishkin|Jeff]] to run upstairs and warn the others, but accidentally knocks him out instead. 
 > 
 
-Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming voice as [[Kevin]]. 
+Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming voice as [[Kevin]] and they get [[Gal]] and [[Falsair]]. ~~Meanwhile, [[Marius]] is chilling at home.~~ Going down to check on [[Evan]], [[Gal]] makes an entrance by sliding down the stairs. Everyone ~~except [[Marius]]~~ can now see [[Kevin]] and the rifts, as well as the people within them. 
+
+[[Nula]] recognizes the woolly mammoth as [[Nula#Relationships|Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Marius#Thello Family|Aeris]]. 
+
+> [!warning] [[Marius]]
+> Far, far away, [[Marius]] gets on his way to [[The Blue Bucket]]. Once he is a few blocks away, he can hear [[Kevin]]'s screams.
+> 
+
+
+
+### [Wannabe Machine World Overlords](https://www.youtube.com/watch?v=iAu-543810Y)
+
+
+
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 
