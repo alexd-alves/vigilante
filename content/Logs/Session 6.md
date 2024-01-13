@@ -63,7 +63,7 @@ Now that the [[index#Players|Party]] is closer to the [[Beep Boop|Beep Boops]], 
 [[Falsair]] tries to reason with [[Vinth]], but he is unwilling to listen and turns to fight the Party. Then, after creating some black squid tentacles to hold the bots down, [[Falsair]] fails to fight the pull of a nearby rift and gets sucked back into the pub. As he is pulled in, [[Vinth]] recognizes him.
 
 > [!quote]
-> VINTH: Falsair, how low you have fallen...
+> <font color="grey">VINTH</font>: Falsair, how low you have fallen...
 
 #BeigeStalkers As they fight, [[Evan]] is able to bridal carry the still unconscious [[Jeff Fishkin|Jeff]] into another rift to get him to safety.
 
@@ -74,10 +74,10 @@ The bots are very strong, and [[Marius#Thello Family|Aeris]] is getting pummeled
 At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Marius#Thello Family|Aeris]], bleeding on the ground as the bots stand over him, and immediately moves to his side. As [[Marius#Thello Family|Aeris]] sees him, he tells him to leave him behind and go, as at least one of them needs to stay alive to look after [[Marius#Relationships|Eudora]].
 
 > [!quote]
-> AERIS: Marius, you need to leave. Just leave me here, you need to go.
-> MARIUS: I'm not leaving, I'm never leaving you.
-> A: It's better that one of us survives. We cannot both die here, you need to go back and make sure Eudora is safe. Everything we've built is compromised.
-> M: Can't do it without you.
+> <font color="grey">AERIS</font>: Marius, you need to leave. Just leave me here, you need to go.
+> <font color="grey">MARIUS</font>: I'm not leaving, I'm never leaving you.
+> <font color="grey">A</font>: It's better that one of us survives. We cannot both die here, you need to go back and make sure Eudora is safe. Everything we've built is compromised.
+> <font color="grey">M</font>: Can't do it without you.
 > 
 
 On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Nula#Relationships|Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts.
@@ -95,6 +95,6 @@ With [[Vinth]] gone, the rifts slowly start to shrink and close.
 Watching the rifts fall apart, [[Marius]] gives in and goes back into the rift after casting [Shield of Faith](https://roll20.net/compendium/dnd5e/Shield%20of%20Faith#content) on his husband. Once [[Marius]] is out, [[Marius#Thello Family|Aeris]] goes over to [[Nula#Relationships|Aric]] and rolls him through another rift to get him to safety.
 
 > [!quote]
-> MARIUS: I know you will come back. If not for me, for Eudora.
+> <font color="grey">MARIUS</font>: I know you will come back. If not for me, for Eudora.
 
 The rifts finally close and the [[Characters/Players/index|Party]] is back in [[The Blue Bucket]], along with [[Jeff Fishkin|Jeff]]'s dead body. [[Nula#Relationships|Aric]] is also there, unconscious, and will die soon if not healed.
