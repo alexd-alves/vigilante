@@ -54,7 +54,7 @@ Realizing the seriousness of the situation, [[Gal]] and [[Falsair]] decide to ha
 
 On the other side, [[Meldohr]] tries to talk to [[Kevin]], but he is too focused on concentrating energy. He tries to use [Dispel Magic](https://roll20.net/compendium/dnd5e/Dispel%20Magic#content) to stop what [[Kevin]] is doing but it has no effect on it. Suddenly, [[Kevin]]'s energy goes still, and the whole pub flickers into the astral plane. Everyone is now in the battlefield and [[Kevin]] yells out at [[Vinth]], warning him that the Party is the one that destroyed their base as his body falls apart.
 
->[!hint] Kevin is now dead.
+>[!fail] Kevin is now dead.
 
 ### [Wannabe Machine World Overlords](https://www.youtube.com/watch?v=iAu-543810Y)
 
@@ -67,7 +67,7 @@ Now that the [[index#Players|Party]] is closer to the [[Beep Boop|Beep Boops]], 
 
 #BeigeStalkers As they fight, [[Evan]] is able to bridal carry the still unconscious [[Jeff Fishkin|Jeff]] into another rift to get him to safety.
 
->[!hint] Back in the pub, Evan checks if Jeff is okay, but he no longer has a pulse.
+>[!fail] Back in the pub, Evan checks if Jeff is okay, but he no longer has a pulse.
 
 The bots are very strong, and [[Marius#Thello Family|Aeris]] is getting pummeled by them. Meanwhile, [[Meldohr]] unsuccessfully tries to reason with [[Vinth]] and explain that they had been manipulated into attacking their base by [[Beep Boop]]. 
 
@@ -77,4 +77,10 @@ On the other side of the battlefield, [[Nula]] is thrown back though the rift by
 
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 
+While half of the Party is not back in the pub, the battle rages on. Alone against [[Vinth]] and the leader of the bots on his side of the battlefield, [[Meldohr]] is quickly taken down and goes unconscious, while [[Nula]] tries to heal her friend across the rifts.
 
+Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep Boop|Beep Boops]] shoots out two [Disintegrating rays](https://roll20.net/compendium/dnd5e/Disintegrate#content) and manages to hit both of them.
+
+> [!fail] The Party watches as both Vinth and Meldohr instantly turn to piles of fine gray dust, along with everything that they were carrying.
+
+With [[Vinth]] gone, the rifts slowly start to shrink and close. 

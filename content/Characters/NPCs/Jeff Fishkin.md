@@ -1,7 +1,7 @@
 >[!info] 
 >**Magical Artifact Researcher**
 >
-> Was 
+> Killed during the bot battle in [[Session 6]].
 >
 
 
