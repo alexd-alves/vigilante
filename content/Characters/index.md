@@ -1,5 +1,7 @@
 ---
 title: Characters
+tags:
+  - HiddenPage
 ---
 | Character | Aliases | Race | Organization | Category |
 | ---- | ---- | ---- | ---- | ---- |

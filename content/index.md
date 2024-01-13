@@ -1,5 +1,7 @@
 ---
 title: Home
+tags:
+  - HiddenPage
 ---
 >==Highlighted== information or sections marked as Meta are not known to Meldohr in game.
 ## Important Reminders
