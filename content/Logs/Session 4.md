@@ -20,7 +20,7 @@ The file is labelled as "[[Marius]] Bode", a name that [[Gal|Gal]] recognises fr
 
 The file has been amended to show [[Marius]]'s current last name which is Thello, like his husband [[Marius#Thello Family|Aeris]]. [[Marius]]'s family ties are listed as his husband and daughter, but also the [[Marius#Bode Family|Bode family]], listing [[Marius]] as the youngest child. According to the file, [[Marius]] was involved in villainous activities along his family for a while in matters related to magical items, until he was thwarted by [[Marius#Thello Family|Aeris]] and switched over to the hero side.
 
-As they finish reading the file, [[Falsair]] is let back in by [[Gal|Gal]], who immediately tells him about [[Marius]]'s backstory. [[Falsair]] recognises [[Marius#Bode Family|Siri]] and [[Marius#Bode Family|Loris]] as the parents which he has met at some point. They decide not to tell [[Marius]] that they have read the file when he returns.
+As they finish reading the file, [[Falsair]] is let back in by [[Gal|Gal]], who immediately tells him about [[Marius]]'s backstory. [[Falsair]] recognizes [[Marius#Bode Family|Siri]] and [[Marius#Bode Family|Loris]] as the parents which he has met at some point. They decide not to tell [[Marius]] that they have read the file when he returns.
 
 [[Evan]] is now awake, and [[Falsair]] uses his magic to command him to open all the drawers quickly as [[Marius]] comes back in. [[Nula]] hands him the file and tells him that they did not read it, but [[Marius]] is very nervous about it. [[Gal|Gal]] remarks that Bode is an interesting name but [[Marius]] does not respond to it.
 ### [In Justice Revealed](https://www.youtube.com/watch?v=r0VRz1q8gmo)
@@ -31,7 +31,7 @@ As [[Evan]] is opening the cabinets, [[Nula]] looks for [[Nula#Relationships|Ari
 
 While they discuss, [[Evan]] looks to see if there are files for [[Benny]], [[Beep Boop]] or [[Issha]] but finds nothing. However, there is a file on [[Ensari]]. She is described in it as a tall (6.5 ft) elven woman, and is listed as the owner of [[Barouk's Works]] and member of the founding team. She does not seem to do anything beyond running the business, but there is a last job listed which is also redacted. [[Nula]] tries to scratch it but accidentally destroys the paper.
 
-[[Marius]] allows [[Gal|Gal]] to look at [[Marius#Thello Family|Aeris]]'s file. [[Nula]] recognises him as one of the people she saw in her [[Session 3#[Making Their Way Downtown](https //www.youtube.com/watch?v=Cwkej79U3ek)|vision]], but he was not the one who looked hurt. [[Meldohr|Meldohr]] thinks that [[Ensari]] works in the same team as [[Marius#Thello Family|Aeris]] and [[Nula#Relationships|Aric]] even though [[Nula]] did not recognise her. The file also lists all of his jobs as completed, including a mission to infiltrate a [[Marius#Bode Family|Bode]] deal.
+[[Marius]] allows [[Gal|Gal]] to look at [[Marius#Thello Family|Aeris]]'s file. [[Nula]] recognizes him as one of the people she saw in her [[Session 3#[Making Their Way Downtown](https //www.youtube.com/watch?v=Cwkej79U3ek)|vision]], but he was not the one who looked hurt. [[Meldohr|Meldohr]] thinks that [[Ensari]] works in the same team as [[Marius#Thello Family|Aeris]] and [[Nula#Relationships|Aric]] even though [[Nula]] did not recognize her. The file also lists all of his jobs as completed, including a mission to infiltrate a [[Marius#Bode Family|Bode]] deal.
 
 [[Nula]] manages to scratch the redacted last mission in Aeris's file. The title reads "*Hidden Plot in Justice*". It is dated 11 days ago.
 

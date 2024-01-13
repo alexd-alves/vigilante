@@ -38,7 +38,7 @@ The party then joins [[Evan]] and [[Beep Boop]] in the meeting room. [[Gal|Gal]]
 
 [[Falsair]] shares his knowledge of the [[Ondra#Superheroes|Superheroes]], noting that [[Fengar]] is known to be more powerful than [[Beep Boop]], and that [[Beep Boop]] has six copies designated Mk 1-6, but not Mk 7.
 
-The party then decides to find a place to rest and visit the pubs in [[Ondra#Locations|Barouk District]] near the agency. They visit a pub called [[Ondra#Locations|The Blue Bucket]], run by an old man named [[Paul|Paul]]. [[Evan]] and [[Gal|Gal]] make an arrangement with Paul to host a pub quiz in exchange for free drinks for the party, as well as a room for [[Gal|Gal]] to use as a dressing room. 
+The party then decides to find a place to rest and visit the pubs in [[Ondra#Locations|Barouk District]] near the agency. They visit a pub called [[Ondra#Locations|The Blue Bucket]], run by an old man named [[Paul|Paul]]. [[Evan]] and [[Gal|Gal]] make an arrangement with [[Paul]] to host a Pub Quiz in exchange for free drinks for the party, as well as a room for [[Gal|Gal]] to use as a dressing room. 
 
 Everyone gets a free drink as a sample and they sit down to drink underneath a taxidermized octopus while [[Gal|Gal]] goes upstairs to take a bath.
 

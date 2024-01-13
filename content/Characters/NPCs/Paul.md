@@ -6,9 +6,13 @@ Paul is the co-owner of the [[Ondra#Locations|Blue Bucket]]. He has a deal with 
 
 | § | Relationships |
 | ---- | ---- |
-| [[Kevin]] | Jeff's colleague, secretly a member of [[Reset]]. |
-## Relationships
-* Saul - Brother
-* Taul - Father
-* Daul - Grandfather
-* Andrew - Great Grandfather
+| Saul | Paul's brother. |
+| Taul | Paul's father |
+| Daul | Paul's grandfather. |
+| Andrew | Paul's great grandfather. |
+
+| § | Interactions |
+| ---- | ---- |
+| [[Session 6]] | The Party visits [[The Blue Bucket]] again to rest. [[Meldohr]] makes a plaque to engrave with the Party's name later, and places it at the table with an taxidermized Octopus to mark their favorite spot. |
+| [[Session 3]] | #GrogshopGameshow The Party runs Paul's Pub Quiz successfully, attracting a crowd. As a result, [[The Blue Bucket]] becomes a local hotspot, and the Party is now able to drink and rest there at no cost.  |
+| [[Session 2]] | #GrogshopGameshow The Party visits Paul's pub, [[The Blue Bucket]]. They make a deal with him to hos a Pub Quiz in exchange for free drinks. |

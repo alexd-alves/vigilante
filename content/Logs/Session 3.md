@@ -19,7 +19,7 @@ Finally, they decide to bring people in by going to the other two pubs in the ar
 
 Meanwhile, [[Nula]] hears a message in her mind from her late brother [[Nula#Relationships|Ryland]]'s friend, [[Nula#Relationships|Aric]], telling her that he is going on a dangerous mission and warning her to be careful. [[Nula]] and [[Nula#Relationships|Aric]] are very close. [[Marius]]'s husband has sent a similar message at the same time, although [[Marius]] thinks that it is not particularly unusual. Both [[Nula#Relationships|Aric]] and [[Marius]]'s husband work at [[Barouk's Works]], but they are not sure whether they work together in the same team.
 
-While they are all concerned about this, they decide to go ahead with the Pub Quiz and honour their deal with [[Paul|Paul]].
+While they are all concerned about this, they decide to go ahead with the Pub Quiz and honor their deal with [[Paul|Paul]].
 
 [[Marius]] and [[Meldohr|Meldohr]], less keen on sabotage, stay back to talk to people as they come out of the pubs into the street. [[Evan]] gets a board with samples, drinks them all and then stands outside impressively spinning the board as a sign.
 

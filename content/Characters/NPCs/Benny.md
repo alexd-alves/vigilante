@@ -17,4 +17,4 @@ Benny is one of [[Ondra]]'s top [[Ondra#Superheroes|Superheroes]] and is part of
 
 | § | Interactions |
 | ---- | ---- |
-| [[Session 4]] | [[Evan]] looks for Benny's file in [[Barouk's Works]]'s HR department, but is unable to find anything. |
+| [[Session 4]] | #MissingHeroes #EvilBoop [[Evan]] looks for Benny's file in [[Barouk's Works]]'s HR department, but is unable to find anything. |
