@@ -19,7 +19,8 @@ As they arrive to [[The Blue Bucket]],they find the place very busy, as it is no
 
 [[Meldohr]] also spends some time crafting a plaque out of the barrels in the pub, so that later he can engrave the Party's name on it and place it under the Octopus at their favorite table. He discusses with [[Gal]] briefly, but they agree on deciding on a name later.
 
-Eventually everyone goes up to their rooms to rest, while [[Marius]] decides to go home, in case his husband returns. [[Gal]] and [[Meldohr]] spend some time getting familiar with their new items from Kevin's lab.
+Eventually everyone goes up to their rooms to rest, while [[Marius]] decides to go home, in case his husband returns. [[Gal]] and [[Meldohr]] spend some time getting familiar with their new items from Kevin's lab
+
 ### [Do You Think You're Better Off Alone](<https://www.youtube.com/watch?v=Lgs9QUtWc3M>)
 
 > [!note] Thursday morning. [[Marius]] is not present.
@@ -42,22 +43,38 @@ Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming vo
 #missingHeroes [[Nula]] recognizes the woolly mammoth as [[Nula#Relationships|Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Marius#Thello Family|Aeris]]. 
 
 > [!warning] Marius
-> Far, far away, [[Marius]] gets on his way to [[The Blue Bucket]] for breakfast with [[Meldohr]]. A few blocks away he can already hear [[Kevin]]'s screams so he walks faster, but he does not know that his husband is there.
+> Far, far away, [[Marius]] gets on his way to [[The Blue Bucket]] for breakfast with [[Meldohr]]. A few blocks away he can already hear [[Kevin]]'s screams so he walks faster, but he does not yet  know that his husband is there too.
 > 
 
-[[Falsair]] realizes that the energy of the rifts is the same energy as [[Kevin]]'s, and gets ready to act if [[Kevin]] makes a move. [[Kevin]] then reveals that the beige man on the other side of the rifts is his boss, [[Vinth]]. [[Kevin]] tries to get the briefcase from the Party so he can give it to [[Vinth]], who might be able to close the rifts. He then moves into the middle of the room and starts pulsing with cold energy, causing the temperature to drop and the whole plane to flicker. 
+[[Falsair]] realizes that the energy of the rifts is the same energy as [[Kevin]]'s, and gets ready to act if [[Kevin]] makes a move. [[Kevin]] then reveals that the beige man on the other side of the rifts is his boss, [[Vinth]]. Again, he tries to get the briefcase from the Party so he can give it to [[Vinth]], who might be able to close the rifts. Then he moves to the middle of the room and starts pulsing with cold energy, causing the temperature to drop and the whole plane to flicker. 
 
 Realizing the seriousness of the situation, [[Gal]] and [[Falsair]] decide to hand the briefcase over, and [[Meldohr]] proposes giving it to [[Vinth]] directly. While this exchange is happening, [[Evan]] throws another mug at a rift to see what happens, and they all watch as the mug is sheared in half when it impacts the edge of the rift, one side going through and the other flying past and exploding against the wall.
 
-[[Nula]] then takes the briefcase and walks into the closest rift. She tries to shout but is unable to get her friend's attention, so she goes to him and opens the briefcase, revealing a spinning metal orb which she throws at [[Nula#Relationships|Aric]]. 
+[[Nula]] takes the briefcase and walks into the closest rift. She tries to shout but is unable to get her friend's attention, so she goes to him and opens the briefcase, revealing a spinning metal orb. She throws at [[Nula#Relationships|Aric]], and it bounces off of him onto the ground. 
 
-On the other side, [[Meldohr]] tries to talk to [[Kevin]], but he is too focused on concentrating energy. He tries to use [Dispel Magic](https://roll20.net/compendium/dnd5e/Dispel%20Magic#content) to stop what [[Kevin]] is doing but it has no effect on it. Suddenly, [[Kevin]]'s energy becomes still, and the whole pub flickers into the astral plane. Everyone is now in the battlefield and [[Kevin]] yells out at [[Vinth]], warning him that the Party is the one that destroyed their base as his body falls apart.
+On the other side, [[Meldohr]] tries to talk to [[Kevin]], but he is too focused on concentrating energy. He tries to use [Dispel Magic](https://roll20.net/compendium/dnd5e/Dispel%20Magic#content) to stop what [[Kevin]] is doing but it has no effect on it. Suddenly, [[Kevin]]'s energy goes still, and the whole pub flickers into the astral plane. Everyone is now in the battlefield and [[Kevin]] yells out at [[Vinth]], warning him that the Party is the one that destroyed their base as his body falls apart.
+
+>[!hint] Kevin is now dead.
 
 ### [Wannabe Machine World Overlords](https://www.youtube.com/watch?v=iAu-543810Y)
 
 Now that the [[index#Players|Party]] is closer to the [[Beep Boop|Beep Boops]], they can see that the bots are marked as "Mk B(x)" and that the one marked as Mk B1 looks slightly different, indicating that he is the leader of the formation.
 
-[[Falsair]] tries to reason with [[Vinth]], but he is unwilling to listen and turns to fight the Party.
+[[Falsair]] tries to reason with [[Vinth]], but he is unwilling to listen and turns to fight the Party. Then, after creating some black squid tentacles to hold the bots down, [[Falsair]] fails to fight the pull of a nearby rift and gets sucked back into the pub. As he is pulled in, [[Vinth]] recognizes him.
+
+> [!quote]
+> VINTH: Falsair, how low you have fallen...
+
+#BeigeStalkers As they fight, [[Evan]] is able to bridal carry the still unconscious [[Jeff Fishkin|Jeff]] into another rift to get him to safety.
+
+>[!hint] Back in the pub, Evan checks if Jeff is okay, but he no longer has a pulse.
+
+The bots are very strong, and [[Marius#Thello Family|Aeris]] is getting pummeled by them. Meanwhile, [[Meldohr]] unsuccessfully tries to reason with [[Vinth]] and explain that they had been manipulated into attacking their base by [[Beep Boop]]. 
+
+At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Marius#Thello Family|Aeris]], bleeding on the ground as the bots stand over him, and immediately moves to his side. As [[Marius#Thello Family|Aeris]] sees him, he tells him to leave him behind and go, as at least one of them needs to stay alive to look after [[Marius#Relationships|Eudora]].
+
+On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Nula#Relationships|Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts.
 
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
+
 
