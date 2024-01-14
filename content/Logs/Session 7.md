@@ -74,6 +74,7 @@ The [[Characters/Players/index|Party]] splits into two groups: Team School, made
 > [[Marius]] tells [[Marius#Thello Family|Galan]] that powerful people are after them, and that after they fought them alongside [[Marius#Thello Family|Aeris]] they were able to get out but had to left [[Marius#Thello Family|Aeris]] behind. [[Marius#Thello Family|Galan]] tries to make him feel better, telling him that his son is strong and will be fine. They will go with [[Evan]] if [[Marius]] believes that is the best option. He suggests going to the school and saying that she has to see a doctor. On the way back, he also pulls [[Evan]] in, assuming that he has daddy issues.
 > 
 > > [!quote]
+> > 
 > ><font color="grey">EVAN:</font> Hi, dad.
 > >
 > ><font color="grey">GALAN:</font> (patting him on the shoulder) Hi, son.
