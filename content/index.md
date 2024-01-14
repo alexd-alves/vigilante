@@ -26,4 +26,5 @@ title: Home
 + [[Session 4]] - 19/11/2023
 + [[Session 5]] - 02/12/2023
 + [[Session 6]] - 16/12/2023
++ [[Session 7]] - 14/01/2024
 

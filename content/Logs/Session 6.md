@@ -83,13 +83,13 @@ At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Marius#Thell
 > <font color="grey">M</font>: Can't do it without you.
 > 
 
-On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Nula#Relationships|Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts.
+On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Nula#Relationships|Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts after collecting [[Jeff Fishkin|Jeff]]'s artifact from the ground.
 
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 
-While half of the Party is not back in the pub, the battle rages on. Alone against [[Vinth]] and the leader of the bots on his side of the battlefield, [[Meldohr]] is quickly taken down and goes unconscious, while [[Nula]] tries to heal her friend across the rifts.
+While half of the Party is now back in the pub, the battle rages on. Alone against [[Vinth]] and the leader of the bots on his side of the battlefield, [[Meldohr]] is quickly taken down and goes unconscious, while [[Nula]] tries to heal her friend through the rifts.
 
-Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep Boop|Beep Boops]] shoots out two [Disintegrating rays](https://roll20.net/compendium/dnd5e/Disintegrate#content) and manages to hit both of them.
+Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep Boop|Beep Boops]] shoots out two [Disintegrating rays](https://roll20.net/compendium/dnd5e/Disintegrate#content), and manages to hit both of them.
 
 > [!fail] The Party watches as both Vinth and Meldohr instantly turn to piles of fine gray dust, along with everything that they were carrying.
 

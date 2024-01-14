@@ -5,7 +5,7 @@
 >
 >*Faction:* [[Justice]]
 >
->  Killed in [[Fenny's Home]] during [[Session 2]].
+> Killed in [[Fenny's Home]] during [[Session 2]].
 
 Fengar was one of [[Ondra]]'s most known [[Ondra#Superheroes|Superheroes]] and part of [[Justice]]. He was a [Druid](http://dnd5e.wikidot.com/druid) and could Wild Shape into a Saber-Toothed Tiger.
 
