@@ -23,6 +23,7 @@ Then, she runs over to [[Nula#Relationships|Aric]] and heals him. He snaps back 
 
 > [!quote]
 > <font color="grey">ARIC:</font> Enemy of my enemy...
+> 
 > <font color="grey">GAL:</font> Well, he's fucking dead.
 
 [[Nula]] was very worried after she received the message informing her that [[Nula#Relationships|Aric]] was going on a dangerous mission, and she demands an explanation. [[Nula#Relationships|Aric]] tells them that they had been sent to investigate something going on in [[Justice]]. At some point, [[Fengar]] had gotten in touch with [[Ensari]], a childhood friend. He had found a plot or something suspicious within [[Justice]] and needed help to investigate. [[Falsair]] suggests that if [[Ensari]] was there she might be dead by now.
@@ -74,6 +75,7 @@ The [[Characters/Players/index|Party]] splits into two groups: Team School, made
 > 
 > > [!quote]
 > ><font color="grey">EVAN:</font> Hi, dad.
+> >
 > ><font color="grey">GALAN:</font> (patting him on the shoulder) Hi, son.
 > 
 > When they return to the house, [[Marius#Thello Family|Galan]] goes in and come back out with [[Marius#Thello Family|Liluth]], who is not quite sure what is happening and is concerned about her book club. [[Marius#Thello Family|Galan]] introduces [[Evan]], making sure to tell her that he apparently needs some parenting. He also calls her mom.
