@@ -1,5 +1,13 @@
 *16/12/2023*
 
+> [!hint] TL;DR
+> The Party takes some time to eat, rest, and get acquainted with their new magic items. At the end of the night, Marius returns home, while the rest stay in the pub. Everyone goes upstairs except Evan and Jeff, who sleep on the booth.
+> 
+> In the morning, Kevin shows up and with him a series of rifts in space. As the Party gets ready to fight him, they spot people in a battle on the other side of the rifts: Vinth, Aric and Aeris. When Kevin uses the last of his vital energy to shift them all into the battlefield, they see they are fighting against a formation of Beep Boop copies.
+> 
+> During the battle, Vinth and Meldohr are disintegrated. Aeris convinces Marius (who arrives halfway through) to leave him behind, and pushes Aric out as well as the rifts are closing. Evan is able to get Jeff through, but when they come out on the other side Jeff is dead.
+
+
 >[!note]  Wednesday evening.
 
 The [[Characters/Players/index|Party]] gets on their way to [[The Blue Bucket]], planning on resting for the night before returning to confront [[Kevin]], even though they sent the [[Reset|beige people]] to drink there. [[Falsair]] is still being followed by the ==Chronal Book==.
