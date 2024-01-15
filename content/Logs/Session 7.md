@@ -1,5 +1,16 @@
 *14/01/2024*
 
+> [!hint] TL;DR
+> Nula heals Aric and brings Jeff back. Aric explains that he, alongside Ensari, Aeris and someone called Asta, had gone infiltrate Justice. Fengar is a childhood friend of Ensari, and he asked her for help after he discovered some sort of plot within Justice. Aric is going to try to find Aeris while the Party makes sure that Marius's family is safe.
+> 
+> Evan offers a secret place to hide Eudora and her grandparents, so he and Marius go take them to Evan's lair. Evan stays there while Marius meets the rest at Jeff's lab. They also find two set of sending stones in Evan's lair, one for Marius to communicate with his family and one for when the party splits.
+> 
+> At the same time, the rest of the Party go to Meldohr's temple to let them know about his death and find out whether they can bring him back. There they meet Meldohr's brother, Gwyn, who has previously met Gal. He joins the Party to help them find and kill Beep Boop and his army. Jeff also shows them how to use his magic artifact.
+> 
+> Then they go to Jeff's lab, and Marius meets them there with Lachlan, an intern that Issha has sent to find them. There they also find a letter addressed to Marius, from his father Loris Bode, letting him know that they are aware of his recent work with Falsair. They get another sets of sending stones from Jeff so he can communicate with them.
+> 
+> The Party decides that Lachlan is no danger, and they try to get back into Reset to retrieve their research, but find that the place has been filled with concrete. Since they cannot get there, they decide to try to get in from the other side and also go to Barouk's Works and collect payment for completing their mission, while Gwyn stays with Jeff in the lab to protect him while he works on some sort of communication device.
+
 > [!info] Thursday morning, around 9am.
 
 The [[Characters/Players/index|Party]] is back at [[The Blue Bucket]]. [[Nula#Relationships|Aric]] is unconscious, and [[Jeff Fishkin|Jeff]]'s corpse is on the ground. The rifts are gone, but they can still feel the static in the air.
