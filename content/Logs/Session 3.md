@@ -6,7 +6,7 @@ The party is at the [[Ondra#Locations|Blue Bucket]] pub, discussing [[Falsair]]'
 
 It is [[Nula]]'s first job, following in the footsteps of her late brother's close friend, who works within another team at [[Barouk's Works]]. The other four have also worked with the agency before, although [[Gal|Gal]] and [[Falsair]] have mostly worked on their own.
 
-[[Falsair]] asks about [[Meldohr|Meldohr]] and [[Marius]]'s religious beliefs. [[Marius]] says that he is not religious, but rather has a duty to make the world a better place for his [[Marius#Relationships|daughter]], who is around 7 years old and is currently living with his husband's parents.
+[[Falsair]] asks about [[Meldohr|Meldohr]] and [[Marius]]'s religious beliefs. [[Marius]] says that he is not religious, but rather has a duty to make the world a better place for his [[Eudora|daughter]], who is around 7 years old and is currently living with his husband's parents.
 
 During this conversation, the [[Characters/Players/index|Party]] also discusses [[Evan]]'s tendency to disappear and go off on his own. He tried to hide to prove a point, but instead just slips under the table.
 
@@ -66,7 +66,7 @@ Name Team wins the Pub Quiz after a tie breaker with Meldohr on the Dance Floor 
 
 ==[[Evan]] notices one of the robins following him, and decides to return to the [[Ondra#Locations|Blue Bucket]]. He finds the window that [[Meldohr|Meldohr]] was selling drinks out of unlocked, and goes upstairs to sleep in one of the rooms.==
 
-==[[Marius]], not seeing anyone watching him, decides to visit his daughter [[Marius#Relationships|Eudora]], who is staying with his husband's parents, [[Marius#Relationships|Liluth]] and [[Marius#Relationships|Galan]]. After finding them all sleeping, he returns to his own home. In the morning, still not seeing anything out of the normal, he visits [[Marius#Relationships|Eudora]] again, before heading to the [[Ondra#Locations|Blue Bucket]].==
+==[[Marius]], not seeing anyone watching him, decides to visit his daughter [[Eudora]], who is staying with his husband's parents, [[Liluth]] and [[Galan]]. After finding them all sleeping, he returns to his own home. In the morning, still not seeing anything out of the normal, he visits [[Eudora]] again, before heading to the [[Ondra#Locations|Blue Bucket]].==
 
 ==[[Nula]], concerned about [[Aric]], searches their home in search for anything strange, but finds nothing. She tries to use [Scrying](https://www.dndbeyond.com/spells/scrying)to check on him. She goes to bed but is kept up by thoughts of her friend. In the morning, she tries [Scrying](https://www.dndbeyond.com/spells/scrying) again, but it fails.==
 
