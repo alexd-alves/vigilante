@@ -17,7 +17,7 @@ Once downstairs, the [[Characters/Players/index|Party]] has a conversation about
 
 Finally, they decide to bring people in by going to the other two pubs in the area, the [[Ondra#Locations|Dirty Gnat]] and the [[Ondra#Locations|Bloody Mammoth]], and poaching their patrons. [[Gal|Gal]] crafts 4 stink bombs before going, with the intention to sabotage them.
 
-Meanwhile, [[Nula]] hears a message in her mind from her late brother [[Nula#Relationships|Ryland]]'s friend, [[Nula#Relationships|Aric]], telling her that he is going on a dangerous mission and warning her to be careful. [[Nula]] and [[Nula#Relationships|Aric]] are very close. [[Marius]]'s husband has sent a similar message at the same time, although [[Marius]] thinks that it is not particularly unusual. Both [[Nula#Relationships|Aric]] and [[Marius]]'s husband work at [[Barouk's Works]], but they are not sure whether they work together in the same team.
+Meanwhile, [[Nula]] hears a message in her mind from her late brother [[Nula#Relationships|Ryland]]'s friend, [[Aric]], telling her that he is going on a dangerous mission and warning her to be careful. [[Nula]] and [[Aric]] are very close. [[Marius]]'s husband has sent a similar message at the same time, although [[Marius]] thinks that it is not particularly unusual. Both [[Aric]] and [[Marius]]'s husband work at [[Barouk's Works]], but they are not sure whether they work together in the same team.
 
 While they are all concerned about this, they decide to go ahead with the Pub Quiz and honor their deal with [[Paul|Paul]].
 
@@ -68,7 +68,7 @@ Name Team wins the Pub Quiz after a tie breaker with Meldohr on the Dance Floor 
 
 ==[[Marius]], not seeing anyone watching him, decides to visit his daughter [[Marius#Relationships|Eudora]], who is staying with his husband's parents, [[Marius#Relationships|Liluth]] and [[Marius#Relationships|Galan]]. After finding them all sleeping, he returns to his own home. In the morning, still not seeing anything out of the normal, he visits [[Marius#Relationships|Eudora]] again, before heading to the [[Ondra#Locations|Blue Bucket]].==
 
-==[[Nula]], concerned about [[Nula#Relationships|Aric]], searches their home in search for anything strange, but finds nothing. She tries to use [Scrying](https://www.dndbeyond.com/spells/scrying)to check on him. She goes to bed but is kept up by thoughts of her friend. In the morning, she tries [Scrying](https://www.dndbeyond.com/spells/scrying) again, but it fails.==
+==[[Nula]], concerned about [[Aric]], searches their home in search for anything strange, but finds nothing. She tries to use [Scrying](https://www.dndbeyond.com/spells/scrying)to check on him. She goes to bed but is kept up by thoughts of her friend. In the morning, she tries [Scrying](https://www.dndbeyond.com/spells/scrying) again, but it fails.==
 
 ==[[Falsair]] and [[Gal|Gal]] stop by a store in the morning, where [[Gal|Gal]] tries to convince the shopkeeper to purchase some of her items, such as the Guiltless Gambit Guns, but he is not convinced.==
 
@@ -76,11 +76,11 @@ Name Team wins the Pub Quiz after a tie breaker with Meldohr on the Dance Floor 
 
 In the morning, the [[Characters/Players/index|Party]] meets at the [[Ondra#Locations|Blue Bucket]] to have breakfast. 
 
-[[Nula]] gives [[Meldohr|Meldohr]] permission to pluck a feather from her when she transforms into an owl. She also tells the others what she saw when she tried to see [[Nula#Relationships|Aric]]: he was hiding along with three other people that she did not recognise near a skyscraper and they were hit by some form of magic, causing one of them to start convulsing, and then there was a big explosive. [[Marius]] describes his husband, but [[Nula]] is so shaken up that she cannot tell whether she saw him.
+[[Nula]] gives [[Meldohr|Meldohr]] permission to pluck a feather from her when she transforms into an owl. She also tells the others what she saw when she tried to see [[Aric]]: he was hiding along with three other people that she did not recognise near a skyscraper and they were hit by some form of magic, causing one of them to start convulsing, and then there was a big explosive. [[Marius]] describes his husband, but [[Nula]] is so shaken up that she cannot tell whether she saw him.
 
 After waiting for [[Evan]] for a while they decide to leave him a note, telling him that they have gone to [[Barouk's Works]]. [[Marius]] thinks that the [[Characters/Players/index|Party]] should be careful not to overwhelm [[Issha]], while [[Falsair]] suggests they speak to [[Barouk's Works|Karen]] from HR. 
 
-On the way, they discuss [[Nula]]'s vision. [[Gal|Gal]] says that she has not seen any skyscrapers in [[Ondra]], but [[Falsair]] identifies the building as "[[Justice]]", the [[Ondra#Superheroes|Superhero's]] HQ. [[Nula]] also notes that she saw [[Nula#Relationships|Aric]] speaking to his companions in a language that she did not recognize, but is unable to demonstrate. [[Marius]] and [[Nula]] are convinced that [[Nula#Relationship|Aric]] is not up to anything nefarious.
+On the way, they discuss [[Nula]]'s vision. [[Gal|Gal]] says that she has not seen any skyscrapers in [[Ondra]], but [[Falsair]] identifies the building as "[[Justice]]", the [[Ondra#Superheroes|Superhero's]] HQ. [[Nula]] also notes that she saw [[Aric]] speaking to his companions in a language that she did not recognize, but is unable to demonstrate. [[Marius]] and [[Nula]] are convinced that [[Aric]] is not up to anything nefarious.
 
 Once at [[Barouk's Works]], the [[Characters/Players/index|Party]] heads to reception, where they encounter [[Issha]]. He is very confident and upbeat, which is somewhat confusing. [[Meldohr|Meldohr]] notices a device in [[Issha]]'s right eye and tries to speak to [[Falsair]] while [[Issha]] leads them to the meeting room upstairs. As [[Issha]] notices them speaking, [[Falsair]] initiates a mental conversation, and once [[Meldohr|Meldohr]] tells him of the device he goes ahead and relays this to the rest of the [[Characters/Players/index|Party]] (minus [[Evan]]). 
 
@@ -96,7 +96,7 @@ Once at the HR office, the team attempts to speak to [[Barouk's Works|Karen]] ab
 
 To be able to look through her files, [[Meldohr|Meldohr]] convinces her that [[Barouk's Works|Jenny]] from Finance has been talking behind her back, and they all decide to go confront her at the Finance office across the hall.
 
-While they all walk towards [[Barouk's Works|Jenny]]'s office, [[Nula]] stays behind to try to break in. ==She turns into a mouse to slide under the HR door and look for files on [[Nula#Relationships|Aric]], but all the cabinets are locked. Back to her human form, she breaks one of the cabinets open with an ice knife, but the records within it belong to the letter "M".==
+While they all walk towards [[Barouk's Works|Jenny]]'s office, [[Nula]] stays behind to try to break in. ==She turns into a mouse to slide under the HR door and look for files on [[Aric]], but all the cabinets are locked. Back to her human form, she breaks one of the cabinets open with an ice knife, but the records within it belong to the letter "M".==
 
 Once at [[Barouk's Works|Jenny]]'s door, [[Gal|Gal]] convinces [[Barouk's Works|Karen]] to purchase a stink bomb from her, so she can teach [[Barouk's Works|Jenny]] a lesson. She agrees, then cracks open the bomb with her teeth and throws it through the door to the Finance office before closing it and running back to her own office. 
 
