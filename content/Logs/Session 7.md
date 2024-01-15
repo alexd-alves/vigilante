@@ -17,7 +17,9 @@ The [[Characters/Players/index|Party]] is back at [[The Blue Bucket]]. [[Nula#Re
 
 At the pub, [[Nula]] checks on [[Jeff Fishkin|Jeff]] as [[Falsair]] reminds [[Evan]] that keeping him safe was his responsibility. He is definitely dead, but hasn't been for long, so [[Nula]] is able to bring him back with [Revivify](https://roll20.net/compendium/dnd5e/Revivify#content). 
 
-Then, she runs over to [[Nula#Relationships|Aric]] and heals him. He snaps back into himself, screaming. Looking around, the first thing he asks is where [[Marius#Thello Family|Aeris]] is. [[Marius]] tells him that he was left behind, and [[Gal]] adds that he was protecting them as they exited the rifts.
+### [Pouring One Out](https://www.youtube.com/watch?v=3HMRLEceXMM)
+
+#MissingHeroes Then, she runs over to [[Nula#Relationships|Aric]] and heals him. He snaps back into himself, screaming. Looking around, the first thing he asks is where [[Marius#Thello Family|Aeris]] is. [[Marius]] tells him that he was left behind, and [[Gal]] adds that he was protecting them as they exited the rifts.
 
 [[Nula#Relationships|Aric]] explains that they were not there willingly but were teleported in. When [[Gal]] asks him about [[Vinth]] he says that he does not know who that is, he just turned up and started screaming about a fight between himself and [[Beep Boop]], but he was helping as they were barely managing so they allowed him.
 
@@ -26,7 +28,7 @@ Then, she runs over to [[Nula#Relationships|Aric]] and heals him. He snaps back 
 > 
 > <font color="grey">GAL:</font> Well, he's fucking dead.
 
-[[Nula]] was very worried after she received the message informing her that [[Nula#Relationships|Aric]] was going on a dangerous mission, and she demands an explanation. [[Nula#Relationships|Aric]] tells them that they had been sent to investigate something going on in [[Justice]]. At some point, [[Fengar]] had gotten in touch with [[Ensari]], a childhood friend. He had found a plot or something suspicious within [[Justice]] and needed help to investigate. [[Falsair]] suggests that if [[Ensari]] was there she might be dead by now.
+#EvilBoop [[Nula]] was very worried after she received the message informing her that [[Nula#Relationships|Aric]] was going on a dangerous mission, and she demands an explanation. [[Nula#Relationships|Aric]] tells them that they had been sent to investigate something going on in [[Justice]]. At some point, [[Fengar]] had gotten in touch with [[Ensari]], a childhood friend. He had found a plot or something suspicious within [[Justice]] and needed help to investigate. [[Falsair]] suggests that if [[Ensari]] was there she might be dead by now.
 
 At first, [[Nula#Relationships|Aric]] is reluctant to share, but he owes the [[Characters/Players/index|Party]] his life and so he reveals that there was a fourth member of the team: [[Asta]]. He was the man that [[Nula]] watched shaking and convulsing when scrying. [[Nula#Relationships|Aric]] is sure that he is dead. The four of them had attempted to infiltrate [[Justice]], but had been spotted by a large flying creature and had to make a run for it. The creature was very high up and unidentifiable.
 
@@ -40,9 +42,9 @@ While [[Ensari]] ran in a different direction, [[Nula#Relationships|Aric]], [[Ma
 
 Then suddenly, [[Beep Boop]]'s hand was already on them and they were shifted into the plane where the [[Session 6|bot fight]] happened.
 
-[[Nula#Relationships|Aric]] promises that if [[Marius#Thello Family|Aeris]] is still there, he will find him and bring him back, but he does not know what happened to [[Ensari]]. [[Gal]] explains that they have previously met her son, [[Issha]], and tells [[Nula#Relationships|Aric]] that [[Beep Boop]] has placed a device in his eye and might now be controlling him, so he cannot be trusted. [[Falsair]] also informs him of [[Fengar]]'s [[Session 2|death]]. [[Nula#Relationships|Aric]] notes that [[Fengar]] had been worried about [[Beep Boop]]'s insistence on asking about the mechanics of his magic.
+#FutureBoopThrall [[Nula#Relationships|Aric]] promises that if [[Marius#Thello Family|Aeris]] is still there, he will find him and bring him back, but he does not know what happened to [[Ensari]]. [[Gal]] explains that they have previously met her son, [[Issha]], and tells [[Nula#Relationships|Aric]] that [[Beep Boop]] has placed a device in his eye and might now be controlling him, so he cannot be trusted. [[Falsair]] also informs him of [[Fengar]]'s [[Session 2|death]]. [[Nula#Relationships|Aric]] notes that [[Fengar]] had been worried about [[Beep Boop]]'s insistence on asking about the mechanics of his magic.
 
-They also discuss the possibility of talking to [[Benny]], as he created [[Beep Boop]]. [[Nula#Relationships|Aric]] doesn't have a direct way on contact him, but he suggests finding [[Ensari]] as she has better contacts.
+#FindingEnsari They also discuss the possibility of talking to [[Benny]], as he created [[Beep Boop]]. [[Nula#Relationships|Aric]] doesn't have a direct way on contact him, but he suggests finding [[Ensari]] as she has better contacts.
 
 [[Nula#Relationships|Aric]] also suggests that the [[Characters/Players/index|Party]] stays somewhere secret, and he himself has a safehouse where he might be able to stay once he confirms it is not compromised. [[Jeff Fishkin|Jeff]] suggests his [[Jeff's Lab|lab]], even though there are some concerns about it collapsing into itself.
 
@@ -52,15 +54,17 @@ After promising to keep in touch, [[Nula#Relationships|Aric]] leaves to get the 
 
 [[Falsair]] explains how the day started to [[Marius]], who was not there, and he suggests going back to [[Reset]]'s base to collect some of their research. [[Marius]] suggests that, while he and [[Evan]] collect [[Marius#Thello Family|Eudora]] from school, the rest go back to [[Jeff's Lab]] to find out if it has been compromised.
 
-[[Falsair]] also proposes going to [[Allia]]'s temple, where [[Meldohr]] lived. While [[Meldohr]] hadn't spoken much about his religion, [[Falsair]] knows that according to [[Ondra#Religion|Ondran]] beliefs it is [[Meldohr]]'s cult of [[Allia]] that would know anything about resurrection. [[Gal]] suggests checking in at the temple before taking care of more important matters.
+#AnotherResurrectionArc [[Falsair]] also proposes going to [[Allia]]'s temple, where [[Meldohr]] lived. While [[Meldohr]] hadn't spoken much about his religion, [[Falsair]] knows that according to [[Ondra#Religion|Ondran]] beliefs it is [[Meldohr]]'s cult of [[Allia]] that would know anything about resurrection. [[Gal]] suggests checking in at the temple before taking care of more important matters.
 
 > [!warning] Falsair
 > [[Falsair]] pulls his notebook out, and on the bottom he writes [[Vinth]]'s name and then scratches it off. Above that is [[Fengar]]'s name.
 
-Before the [[Characters/Players/index|Party]] splits, [[Marius]] takes some time to split some of the gold they had earned from Tuesday's [[Session 3|Pub Quiz]]. They also decide to obtain some [sending stones](http://dnd5e.wikidot.com/wondrous-items:sending-stones) to be able to keep in touch with each other. [[Jeff Fishkin|Jeff]] suggests getting some from his [[Jeff's Lab|lab]], or going to the black market under the city. [[Nula]] comments that it seems dodgy, and [[Falsair]] responds by hinting that [[Marius]] is dodgy, which [[Marius]] does not seem happy about.
+Before the [[Characters/Players/index|Party]] splits, [[Marius]] takes some time to share some of the gold they had earned from Tuesday's [[Session 3|Pub Quiz]]. They also decide to obtain some [sending stones](http://dnd5e.wikidot.com/wondrous-items:sending-stones) to be able to keep in touch with each other. [[Jeff Fishkin|Jeff]] suggests getting some from his [[Jeff's Lab|lab]], or going to the black market under the city. [[Nula]] comments that it seems dodgy, and [[Falsair]] responds by hinting that [[Marius]] is dodgy, which [[Marius]] does not seem happy about.
 
 > [!warning] Falsair and Marius
 > Before leaving, [[Falsair]] tugs on [[Marius]]'s sleeve and asks him is he is okay. [[Marius]] responds that he is not, and [[Falsair]] promises that they will do everything they can to find [[Marius#Thello Family|Aeris]].
+
+### [Splitting the Party](https://www.youtube.com/watch?v=PUMCIn2swTU)
 
 The [[Characters/Players/index|Party]] splits into two groups: Team School, made up of [[Marius]] and [[Evan]], and Team Temple, made up of [[Falsair]], [[Gal]] and [[Nula]], as well as [[Jeff Fishkin|Jeff]].
 
@@ -112,7 +116,7 @@ The [[Characters/Players/index|Party]] splits into two groups: Team School, made
 > 
 > [[Gwyn]] asks [[Gal]] to accompany him to [[Meldohr]]'s room, as he doesn't know the others  but he wants to see if his brother left anything useful, and [[Tomek]] leads them there.
 > 
-> While [[Gwyn]] searches the room, [[Gal]] asks [[Tomek]] quietly whether he knows anything about resurrection. He explains that it is something he has read about but there is not a lot of knowledge around, and it is not something he himself can do. There are, however, some scriptures about it, which mention a sanctum in the land outside the city that has been ravaged by multiple wars in [[Ondra]]'s history. It is said to contain a means to commune with [[Allia]], and potentially grant the power to resurrect someone. He is not sure that it is true. [[Gal]] tells him that they might be able to do something, and asks him to get in touch with them at [[The Blue Bucket]] if he can help.
+> #AnotherResurrectionArc While [[Gwyn]] searches the room, [[Gal]] asks [[Tomek]] quietly whether he knows anything about resurrection. He explains that it is something he has read about but there is not a lot of knowledge around, and it is not something he himself can do. There are, however, some scriptures about it, which mention a sanctum in the land outside the city that has been ravaged by multiple wars in [[Ondra]]'s history. It is said to contain a means to commune with [[Allia]], and potentially grant the power to resurrect someone. He is not sure that it is true. [[Gal]] tells him that they might be able to do something, and asks him to get in touch with them at [[The Blue Bucket]] if he can help.
 > 
 > In [[Meldohr]]'s room, [[Gwyn]] finds a cask of ale under the bed, and a portrait that [[Meldohr]] had commissioned of them two together. He takes some time to catch up with [[Gal]], and tells her that the farm machines have gone haywire again, killing his wife and destroying the farm. [[Gwyn]] decides that he wants to join the [[Characters/Players/index|Party]] and smite the machines that killed his brother.
 > 
