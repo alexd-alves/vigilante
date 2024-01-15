@@ -10,14 +10,14 @@ Character Sheet [here](https://www.dndbeyond.com/characters/107822236).
 * He is part of the Bode mafia family. ==[[Reset]] is a direct offshoot of it.==
 ## Relationships
 ### Thello Family
-* Aeris Thello - Husband
-* Eudora Thello (Dora) - Daughter (7)
-* Liluth Thello - Mother-in-law
-* Galan Thello - Father-in-law
+* [[Aeris|Aeris Thello]] - Husband
+* [[Eudora|Eudora Thello]] (Dora) - Daughter (7)
+* [[Liluth|Liluth Thello]] - Mother-in-law
+* [[Galan|Galan Thello]] - Father-in-law
 * ==Nuala Thello - Sister-in-law==
 ### Bode Family
 * Siri Bode - Mother
-* Loris Bode - Father
+* [[Loris|Loris Bode]] - Father
 * Cidri Bode - ==Sister==
 * Saeto Bode - ==Brother==
 * Morre Bode - ==Brother==
