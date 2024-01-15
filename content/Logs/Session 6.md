@@ -22,8 +22,8 @@ As they arrive to [[The Blue Bucket]],they find the place very busy, as it is no
 > While the rest makes the meal, [[Falsair]] spends some time in his room attuning to the Chronal Book. While he does not recover his ability to use magic yet, he learns of some perks of having the Book. He also learns that the Book is in an "Unawakened" state.
 >
 
-#MissingHeroes [[Meldohr]] also takes some stew up for [[Falsair]], along with some stale moldy bread (his favorite). Afterwards, while [[Jeff Fishkin|Jeff]] and [[Evan]] have a cry and the others eat, [[Nula]] takes some time to check in on [[Marius]], and ask how he feels about his missing [[Aeris|husband]].
-[[Marius]] is worried about it, but he also thinks that [[Aeris]] can look after himself. [[Nula]] think the same of [[Aric]]. 
+#MissingHeroes [[Meldohr]] also takes some stew up for [[Falsair]], along with some stale moldy bread (his favorite). Afterwards, while [[Jeff Fishkin|Jeff]] and [[Evan]] have a cry and the others eat, [[Nula]] takes some time to check in on [[Marius]], and ask how he feels about his missing [[Marius#Thello Family|husband]].
+[[Marius]] is worried about it, but he also thinks that [[Marius#Thello Family|Aeris]] can look after himself. [[Nula]] think the same of [[Nula#Relationships|Aric]]. 
 
 [[Meldohr]] also spends some time crafting a plaque out of the barrels in the pub, so that later he can engrave the Party's name on it and place it under the Octopus at their favorite table. He discusses with [[Gal]] briefly, but they agree on deciding on a name later.
 
@@ -48,7 +48,7 @@ Eventually everyone goes up to their rooms to rest, while [[Marius]] decides to 
 
 Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming voice as [[Kevin]] and they get [[Gal]] and [[Falsair]]. ~~Meanwhile, [[Marius]] is chilling at home.~~ Going down to check on [[Evan]], [[Gal]] makes an entrance by sliding down the stairs. Everyone ~~except [[Marius]]~~ can now see [[Kevin]] and the rifts, as well as the people within them. 
 
-#MissingHeroes [[Nula]] recognizes the woolly mammoth as [[Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Aeris]]. 
+#MissingHeroes [[Nula]] recognizes the woolly mammoth as [[Nula#Relationships|Aric]]. He and his allies look weakened as they fight the army of [[Beep Boop|Beep Boops]]. They all recognize the elven man as [[Marius#Thello Family|Aeris]]. 
 
 > [!warning] Marius
 > Far, far away, [[Marius]] gets on his way to [[The Blue Bucket]] for breakfast with [[Meldohr]]. A few blocks away he can already hear [[Kevin]]'s screams so he walks faster, but he does not yet  know that his husband is there too.
@@ -58,7 +58,7 @@ Upstairs, everyone is awoken by the scream. [[Nula]] recognizes the screaming vo
 
 Realizing the seriousness of the situation, [[Gal]] and [[Falsair]] decide to hand the briefcase over, and [[Meldohr]] proposes giving it to [[Vinth]] directly. While this exchange is happening, [[Evan]] throws another mug at a rift to see what happens, and they all watch as the mug is sheared in half when it impacts the edge of the rift, one side going through and the other flying past and exploding against the wall.
 
-[[Nula]] takes the briefcase and walks into the closest rift. She tries to shout but is unable to get her friend's attention, so she goes to him and opens the briefcase, revealing a spinning metal orb. She throws at [[Aric]], and it bounces off of him onto the ground. 
+[[Nula]] takes the briefcase and walks into the closest rift. She tries to shout but is unable to get her friend's attention, so she goes to him and opens the briefcase, revealing a spinning metal orb. She throws at [[Nula#Relationships|Aric]], and it bounces off of him onto the ground. 
 
 On the other side, [[Meldohr]] tries to talk to [[Kevin]], but he is too focused on concentrating energy. He tries to use [Dispel Magic](https://roll20.net/compendium/dnd5e/Dispel%20Magic#content) to stop what [[Kevin]] is doing but it has no effect on it. Suddenly, [[Kevin]]'s energy goes still, and the whole pub flickers into the astral plane. Everyone is now in the battlefield and [[Kevin]] yells out at [[Vinth]], warning him that the Party is the one that destroyed their base as his body falls apart.
 
@@ -77,9 +77,9 @@ Now that the [[Characters/Players/index|Party]] is closer to the [[Beep Boop|Bee
 
 >[!fail] Back in the pub, Evan checks if Jeff is okay, but he no longer has a pulse.
 
-The bots are very strong, and [[Aeris]] is getting pummeled by them. Meanwhile, [[Meldohr]] unsuccessfully tries to reason with [[Vinth]] and explain that they had been manipulated into attacking their base by [[Beep Boop]]. 
+The bots are very strong, and [[Marius#Thello Family|Aeris]] is getting pummeled by them. Meanwhile, [[Meldohr]] unsuccessfully tries to reason with [[Vinth]] and explain that they had been manipulated into attacking their base by [[Beep Boop]]. 
 
-At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Aeris]], bleeding on the ground as the bots stand over him, and immediately moves to his side. As [[Aeris]] sees him, he tells him to leave him behind and go, as at least one of them needs to stay alive to look after [[Eudora]].
+At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Marius#Thello Family|Aeris]], bleeding on the ground as the bots stand over him, and immediately moves to his side. As [[Marius#Thello Family|Aeris]] sees him, he tells him to leave him behind and go, as at least one of them needs to stay alive to look after [[Marius#Relationships|Eudora]].
 
 > [!quote]
 > <font color="grey">AERIS</font>: Marius, you need to leave. Just leave me here, you need to go.
@@ -91,7 +91,7 @@ At this point, [[Marius]] arrives at [[The Blue Bucket]]. He sees [[Aeris]], ble
 > <font color="grey">M</font>: Can't do it without you.
 > 
 
-On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts after collecting [[Jeff Fishkin|Jeff]]'s artifact from the ground.
+On the other side of the battlefield, [[Nula]] is thrown back though the rift by [[Nula#Relationships|Aric]], who is very hurt and cannot hold on to the mammoth form any longer. [[Gal]] also walks through one of the rifts after collecting [[Jeff Fishkin|Jeff]]'s artifact from the ground.
 
 ### [He Is Dust in the Wind](https://www.youtube.com/watch?v=tH2w6Oxx0kQ)
 
@@ -103,9 +103,9 @@ Seeing [[Vinth]] near [[Meldohr]]'s unconscious form, the leader of the [[Beep B
 
 With [[Vinth]] gone, the rifts slowly start to shrink and close. 
 
-Watching the rifts fall apart, [[Marius]] gives in and goes back into the rift after casting [Shield of Faith](https://roll20.net/compendium/dnd5e/Shield%20of%20Faith#content) on his husband. Once [[Marius]] is out, [[Aeris]] goes over to [[Aric]] and rolls him through another rift to get him to safety.
+Watching the rifts fall apart, [[Marius]] gives in and goes back into the rift after casting [Shield of Faith](https://roll20.net/compendium/dnd5e/Shield%20of%20Faith#content) on his husband. Once [[Marius]] is out, [[Marius#Thello Family|Aeris]] goes over to [[Nula#Relationships|Aric]] and rolls him through another rift to get him to safety.
 
 > [!quote]
 > <font color="grey">MARIUS</font>: I know you will come back. If not for me, for Eudora.
 
-The rifts finally close and the [[Characters/Players/index|Party]] is back in [[The Blue Bucket]], along with [[Jeff Fishkin|Jeff]]'s dead body. [[Aric]] is also there, unconscious, and will die soon if not healed.
+The rifts finally close and the [[Characters/Players/index|Party]] is back in [[The Blue Bucket]], along with [[Jeff Fishkin|Jeff]]'s dead body. [[Nula#Relationships|Aric]] is also there, unconscious, and will die soon if not healed.
