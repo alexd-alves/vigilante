@@ -79,7 +79,46 @@ The [[Characters/Players/index|Party]] splits into two groups: Team School, made
 > >
 > ><font color="grey">GALAN:</font> (patting him on the shoulder) Hi, son.
 > 
-> When they return to the house, [[Marius#Thello Family|Galan]] goes in and come back out with [[Marius#Thello Family|Liluth]], who is not quite sure what is happening and is concerned about her book club. [[Marius#Thello Family|Galan]] introduces [[Evan]], making sure to tell her that he apparently needs some parenting. He also calls her mom.
+> When they return to the house, [[Marius#Thello Family|Galan]] goes in and comes back out with [[Marius#Thello Family|Liluth]], who is not quite sure what is happening and is concerned about her book club. [[Marius#Thello Family|Galan]] introduces [[Evan]], making sure to tell her that he apparently needs some parenting. He also calls her mom.
+> 
+> They all go to the school, and [[Marius#Thello Family|Galan]] leaves them outside while he goes inside to fetch [[Marius#Thello Family|Eudora]]. She comes out a bit confused, more so seeing her dad in full armor. He crouches down to give her a hug and talk to her.
+> 
+> > [!quote]
+> > 
+> ><font color="grey">MARIUS:</font> Hey sweetie. We have to stay elsewhere for a bit.
+> >
+> ><font color="grey">EUDORA:</font> Yeah, grandad said. Will it be fun?
+> >
+> ><font color="grey">M:</font> We'll try to make it fun. This is [[Evan]], one of my friends.
+> >
+> ><font color="grey">E:</font> He looks weird.
+> 
+> [[Evan]] tells the child that there are a lot of toys where they are going, and [[Marius]] whispers to him to maybe only show her the child safe ones.
+> 
+> On their way to [[Evan]]'s lair they are still checking around for danger, but nobody seems to be following them.
+
+> [!warning] Team Temple (Nula, Gal and Falsair + Jeff)
+> On their way to the temple, [[Nula]] asks [[Gal]] if they should do something with [[Jeff Fishkin|Jeff]]'s artifact. [[Gal]] is carrying the orb, which is currently just a metal sphere. [[Falsair]] really wants it back, so after a brief argument she hands it to him. [[Jeff Fishkin|Jeff]] suggests he can take it back, but [[Gal]] says no.
+> 
+> [[Gal]] is also worrying that letting [[Vinth]] die might result in someone taking over [[Reset]]. [[Jeff Fishkin|Jeff]] also mentions that [[Kevin]] is not actually his coworker, Kevin, they just both happen to be bird men. While [[Kevin]] resembled a bald eagle, coworker Kevin was like a parakeet.
+> 
+> Eventually, they all arrive at the temple. It is a bit run down, as they do not have the income to keep it well maintained. While there are some volunteers doing their best, religious groups have no real support in the city.
+> 
+> [[Gal]] suggests they go in, respectfully, and find a private place to break the news. They can see people cleaning, a place for offerings, and also a man in grey robes with the same symbol that [[Meldohr]] had on his shield. He is talking to a dwarf, telling him how [[Meldohr]] did a lot of good for the temple, using his stone carving skills to restore large portions of the stonework.
+> 
+> The dwarf and [[Gal]] recognize each other. He is [[Gwyn]], an old acquaintance, and the man in the robes is High Priest [[Tomek]]. [[Gwyn]] introduces himself as [[Meldohr]]'s brother, and [[Gal]] tells him and [[Tomek]] that they need to talk in a private place. [[Tomek]] takes them to his office, and on the way there [[Falsair]] drops a coin into the donations box, but also uses magic to make it sound like it's a lot of coins.
+> 
+> [[Falsair]] waits outside with [[Jeff Fishkin|Jeff]] to give [[Gal]] some privacy. Inside the office, [[Gal]] lets [[Gwyn]] and [[Tomek]] know that [[Meldohr]] is dead.
+> 
+> [[Gwyn]] asks [[Gal]] to accompany him to [[Meldohr]]'s room, as he doesn't know the others  but he wants to see if his brother left anything useful, and [[Tomek]] leads them there.
+> 
+> While [[Gwyn]] searches the room, [[Gal]] asks [[Tomek]] quietly whether he knows anything about resurrection. He explains that it is something he has read about but there is not a lot of knowledge around, and it is not something he himself can do. There are, however, some scriptures about it, which mention a sanctum in the land outside the city that has been ravaged by multiple wars in [[Ondra]]'s history. It is said to contain a means to commune with [[Allia]], and potentially grant the power to resurrect someone. He is not sure that it is true. [[Gal]] tells him that they might be able to do something, and asks him to get in touch with them at [[The Blue Bucket]] if he can help.
+> 
+> In [[Meldohr]]'s room, [[Gwyn]] finds a cask of ale under the bed, and a portrait that [[Meldohr]] had commissioned of them two together. He takes some time to catch up with [[Gal]], and tells her that the farm machines have gone haywire again, killing his wife and destroying the farm. [[Gwyn]] decides that he wants to join the [[Characters/Players/index|Party]] and smite the machines that killed his brother.
+> 
+> Outside, [[Jeff Fishkin|Jeff]] shows [[Falsair]] and [[Nula]] how to activate the artifact and turn it into a glove. It will duplicate the user's magical wellspring. [[Jeff Fishkin|Jeff]] warns them that it will probably be destroyed after the first use. [[Falsair]] also asks [[Jeff Fishkin|Jeff]] if he has any family. He says he does not, to which [[Falsair]] responds "good".
+> 
+> When they all meet outside, [[Gwyn]] is carrying the ale cask. He also shows [[Falsair]] the Growth Gear's boot ability, and uses [Longstrider](https://roll20.net/compendium/dnd5e/Longstrider#content) to help the gnomes get to [[Jeff's Lab]] faster.
 
 
 
