@@ -206,7 +206,7 @@ After introduction with [[Gwyn]], [[Marius]] tells the rest that they have probl
 
 [[Falsair]] then asks [[Lachlan]] to make a choice, whether he is with them or against them, and tells him that working for [[Barouk's Works]] doesn't make him a Hero. [[Lachlan]] tells him that he just wants to be a Hero and help people. [[Gwyn]] is also reminded that he might end up like [[Meldohr]], but he will do what he needs to avenge his brother. He also reveals the drake's name: [[Chicken]]. 
 
-Looking into [[Lachlan]]'s eyes to ensure that he has no devices hidden within, they realize that he is no danger, and the [[Characters/Players/index|Party]] decides to go into [[Reset]] together to assess the situation after [[Marius]] gives [[Falsair]] some extra magic armor.
+#BeigeStalkers Looking into [[Lachlan]]'s eyes to ensure that he has no devices hidden within, they realize that he is no danger, and the [[Characters/Players/index|Party]] decides to go into [[Reset]] together to assess the situation after [[Marius]] gives [[Falsair]] some extra magic armor.
 
 [[Lachlan]] tries to use his strength to drag the door up, and they find a concrete wall behind. Unable to burrow through it, [[Gal]] suggests finding the [[Reset]] employees to ask them for information.
 
