@@ -153,6 +153,8 @@ The [[Characters/Players/index|Party]] splits into two groups: Team School, made
 >
 >Before taking some time to rest and jam with [[Gal]], [[Gwyn]] sets down a trap in the corridor and uses a javelin to block the handwheel.
  
+### [I Think He's Dumb, or Maybe Just Happy?](https://www.youtube.com/watch?v=4YFu4dvMHHY)
+
 Elsewhere, [[Issha]] ends a job interview at [[Barouk's Works]]. The new Hero is [[Lachlan]], a a blue orc slightly small for his race. [[Issha]] hands him an envelope with instructions and sends him to find the [[Characters/Players/index|Party]] at [[The Blue Bucket]].
 
 Walking towards the pub, [[Lachlan]] opens the envelope and finds the profiles and pictures of each [[Characters/Players/index|Party]] member, including one of [[Meldohr]] who is no longer alive. Then, he stumbles upon [[Marius]], who is having a meltdown in an alleyway.
