@@ -7,7 +7,7 @@
 > 
 > At the same time, the rest of the Party go to Meldohr's temple to let them know about his death and find out whether they can bring him back. There they meet Meldohr's brother, Gwyn, who has previously met Gal. He joins the Party to help them find and kill Beep Boop and his army. Jeff also shows them how to use his magic artifact.
 > 
-> Then they go to Jeff's lab, and Marius meets them there with Lachlan, an intern that Issha has sent to find them. There they also find a letter addressed to Marius, from his father Loris Bode, letting him know that they are aware of his recent work with Falsair. They get another sets of sending stones from Jeff so he can communicate with them.
+> Then they go to Jeff's lab, and Marius meets them there with Lachlan, an intern that Issha has sent to find them. There they also find a letter addressed to Marius, from his father Loris Bode, letting him know that they are aware of his recent work with Falsair. They get another set of sending stones from Jeff so he can communicate with them.
 > 
 > The Party decides that Lachlan is no danger, and they try to get back into Reset to retrieve their research, but find that the place has been filled with concrete. Since they cannot get there, they decide to try to get in from the other side and also go to Barouk's Works and collect payment for completing their mission, while Gwyn stays with Jeff in the lab to protect him while he works on some sort of communication device.
 
@@ -135,8 +135,84 @@ The [[Characters/Players/index|Party]] splits into two groups: Team School, made
 > 
 > When they all meet outside, [[Gwyn]] is carrying the ale cask. He also shows [[Falsair]] the Growth Gear's boot ability, and uses [Longstrider](https://roll20.net/compendium/dnd5e/Longstrider#content) to help the gnomes get to [[Jeff's Lab]] faster.
 
+>[!warning] Team Lair (Marius and Evan + Eudora, Galan and Liluth)
+>[[Evan]] takes the team to his lair, which looks like a Batcave (Batcave??).
+>
+>[[Galan]] is not impressed, but he is sure that they can make it cozier. [[Evan]] tells the group that he will be staying there for a bit, as there is something that he needs to take care of. He also finds two pairs of sending stones, one for [[Marius]] to keep in touch with his family, and one for the [[Characters/Players/index|Party]].
+>
+>[[Eudora]] is a bit upset about having to stay there, but she will be okay. She asks [[Marius]] if her Pa [[Aeris]] will be coming home, and [[Marius]] tells her that he will. Before she goes off to make some drawings, she uses the daily charge of the [Sending Stone](http://dnd5e.wikidot.com/wondrous-items:sending-stones) to test it by saying "chicken and potatoes" into it.
+>
+>[[Marius]] heads to [[Jeff's Lab]] alone.
 
+>[!warning] Team Temple (Nula, Gal , Gwyn and Falsair + Jeff)
+>On the way to [[Jeff's Lab]], [[Nula]] can't see anything strange and [[Gwyn]] can't see any constructs around.
+>
+>They carefully enter [[Jeff's Lab]]. The kiln is off and the door leading to [[Reset]] is shut and wedged. On the handwheel, [[Falsair]] finds an envelope, sealed with red wax and imprinted with a fancy letter B, which he recognizes as the signature of the [[Bode Family]]. It is addressed to "The Family Traitor [[Marius|Marius Bode]]". [[Falsair]] pockets it without unopened.
+>
+>[[Jeff]] finds a third pair of sending stones, keeping one himself and handing the other to [[Falsair]]. He mentions that he has a home where he would rather stay, but [[Falsair]] thinks it's safer for them to stay together.
+>
+>Before taking some time to rest and jam with [[Gal]], [[Gwyn]] sets down a trap in the corridor and uses a javelin to block the handwheel.
+ 
+Elsewhere, [[Issha]] ends a job interview at [[Barouk's Works]]. The new Hero is [[Lachlan]], a a blue orc slightly small for his race. [[Issha]] hands him an envelope with instructions and sends him to find the [[Characters/Players/index|Party]] at [[The Blue Bucket]].
 
+Walking towards the pub, [[Lachlan]] opens the envelope and finds the profiles and pictures of each [[Characters/Players/index|Party]] member, including one of [[Meldohr]] who is no longer alive. Then, he stumbles upon [[Marius]], who is having a meltdown in an alleyway.
+
+>[!warning] Marius and Lachlan
+>As they bump into each other, [[Lachlan]] recognizes [[Marius]] from one of the pictures. [[Marius]] is busy wiping his tears away.
+>
+>[[Lachlan]] approaches him with the pictures and explains that he was sent by [[Issha]], and that they are meant to show him the ropes while he is a Hero in probation. [[Marius]] reveals that [[Meldohr]] has died and that [[Evan]] is staying elsewhere for now.
+>
+>Then, they both continue walking towards [[Jeff's Lab]] together.
+
+As they enter the corridor leading to the lab, [[Marius]] notices the trap and [[Nula]] hears the clanking of his armor. As [[Gwyn]] doesn't know who they are, he hides in the kiln with the drake.
+
+While [[Marius]] is trying to disarm the trap and [[Gal]] is getting ready to use [Polymorph](https://roll20.net/compendium/dnd5e/Polymorph#content) on the potential intruders, [[Falsair]] asks what the secret code is through the door. Unsure, [[Marius]] says PUB QUIZ, but thankfully [[Falsair]] finds this satisfactory and unlocks the door.
+
+He then hands the envelope to [[Marius]], who stays behind and reads the letter.
+
+>[!summary] To The Family Traitor Marius Bode
+>REDACTED
+>
+>We have seen that you have allied yourself with another failure of a villain. [[Falsair]] and his little apprentice.
+>
+>REDACTED
+>
+>We thought that he would just roll over and die after we paid [[Ian]] to get rid of him. Of course that dwarvish imbecile couldn't finish the job. But that isn't too much of a bother. With you two together we can kill two REDACTED birds with one swift stone.
+>
+>Be seeing you soon.
+>
+>Love, Sir [[Loris|Loris Bode]]
+
+Inside, [[Nula]] asks [[Lachlan]] who sent him, and when hands the letter and explains that it was [[Issha]], [[Falsair]] messages [[Gal]] that, surely, if [[Issha]] is controlled by [[Beep Boop]], he would know that they had battled.
+
+The letter contains a series of jobs for the [[Characters/Players/index|Party]]:
+
+>[!summary] Jobs:
+>* There is a black market auction happening in a week. [[Barouk's Works]] wants the [[Characters/Players/index|Party]] to take it down from the inside. However, it is invite only, so they must procure an invitation themselves.
+>
+>* There are also reports of dock workers going missing, which is not that unusual but the managers are becoming annoyed.
+>
+>* Finally, there are home robberies taking place at the edges of the [[Ondra#Locations|Barouk District]], although the victims don't have much money so this is low priority.
+
+[[Falsair]] interrogates [[Lachlan]] about his throughs on [[Issha]], but all he has noticed is that he is a confident lad. [[Falsair]] messages [[Nula]] that [[Issha]] probably doesn't know about the battle and [[Aric]], and that they should pretend to go along with it.
+
+After introduction with [[Gwyn]], [[Marius]] tells the rest that they have problem, and asks [[Falsair]] if he knows [[Loris]]. Then, folding the letter over to hide parts of it, he allows them to read it.
+
+[[Marius]] explains that [[Loris]] is his father ([[Jeff Fishkin|Jeff]] gasps), and notes that he didn't think they knew that he was still around in [[Ondra]]. They want to restore the world order, putting themselves at the top and allowing only certain families to have access to magic and magic items, as well as killing off lower level Heroes. He also reveals that [[Reset]] is an offshoot of the [[Bode Family]], but that judging by [[Vinth]]'s role, their goals might not align.
+
+[[Gwyn]] does some thinking about constructs, which he holds a grudge against, and from what he has heard about [[Beep Boop]] he understands that he is not controlled by external forces. 
+
+[[Falsair]] then asks [[Lachlan]] to make a choice, whether he is with them or against them, and tells him that working for [[Barouk's Works]] doesn't make him a Hero. [[Lachlan]] tells him that he just wants to be a Hero and help people. [[Gwyn]] is also reminded that he might end up like [[Meldohr]], but he will do what he needs to avenge his brother. He also reveals the drake's name: [[Chicken]]. 
+
+Looking into [[Lachlan]]'s eyes to ensure that he has no devices hidden within, they realize that he is no danger, and the [[Characters/Players/index|Party]] decides to go into [[Reset]] together to assess the situation after [[Marius]] gives [[Falsair]] some extra magic armor.
+
+[[Lachlan]] tries to use his strength to drag the door up, and they find a concrete wall behind. Unable to burrow through it, [[Gal]] suggests finding the [[Reset]] employees to ask them for information.
+
+While [[Lachlan]] continues to unsuccessfully punch the wall, [[Nula]] locates the reception desks 80 feet ahead of the wall, where it originally was. Not considering that the whole place might be submerged in concrete, [[Falsair]] tries to teleport himself and [[Marius]] inside, but they fail, hurting themselves in the process.
+
+Unable to access [[Reset]] from the [[Jeff's Lab|lab]], [[Falsair]] decides to follow the direction of the base from the surface and see if there is another way in. He also wants to return to [[Barouk's Works]] to inform [[Issha]] and get paid for protecting [[Jeff Fishkin|Jeff]].
+
+[[Gwyn]] decides to stay and protect [[Jeff Fishkin|Jeff]] while the rest go to [[Barouk's Works]].
 
 
 
