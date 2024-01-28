@@ -78,7 +78,7 @@ In the morning, the [[Characters/Players/index|Party]] meets at the [[Ondra#Loca
 
 [[Nula]] gives [[Meldohr|Meldohr]] permission to pluck a feather from her when she transforms into an owl. She also tells the others what she saw when she tried to see [[Aric]]: he was hiding along with three other people that she did not recognise near a skyscraper and they were hit by some form of magic, causing one of them to start convulsing, and then there was a big explosive. [[Marius]] describes his husband, but [[Nula]] is so shaken up that she cannot tell whether she saw him.
 
-After waiting for [[Evan]] for a while they decide to leave him a note, telling him that they have gone to [[Barouk's Works]]. [[Marius]] thinks that the [[Characters/Players/index|Party]] should be careful not to overwhelm [[Issha]], while [[Falsair]] suggests they speak to [[Barouk's Works|Karen]] from HR. 
+After waiting for [[Evan]] for a while they decide to leave him a note, telling him that they have gone to [[Barouk's Works]]. [[Marius]] thinks that the [[Characters/Players/index|Party]] should be careful not to overwhelm [[Issha]], while [[Falsair]] suggests they speak to [[Karen]] from HR. 
 
 On the way, they discuss [[Nula]]'s vision. [[Gal|Gal]] says that she has not seen any skyscrapers in [[Ondra]], but [[Falsair]] identifies the building as "[[Justice]]", the [[Ondra#Superheroes|Superhero's]] HQ. [[Nula]] also notes that she saw [[Aric]] speaking to his companions in a language that she did not recognize, but is unable to demonstrate. [[Marius]] and [[Nula]] are convinced that [[Aric]] is not up to anything nefarious.
 
@@ -88,22 +88,22 @@ Once at [[Barouk's Works]], the [[Characters/Players/index|Party]] heads to rece
 
 [[Issha]] also mentions his mother, [[Ensari]], and his siblings: [[Issha#Relationships|Ahssi]] and [[Issha#Relationships|Haiche]]. He also tries to grill [[Meldohr|Meldohr]], but [[Gal|Gal]] distracts him by asking what kind of cologne he is wearing.
 
-[[Nula]] asks [[Issha]] about obtaining information on other teams that work at the agency, but he says it is very confidential. The [[Characters/Players/index|Party]] decides to speak to [[Barouk's Works|Karen]] instead, who has an office down the hall.
+[[Nula]] asks [[Issha]] about obtaining information on other teams that work at the agency, but he says it is very confidential. The [[Characters/Players/index|Party]] decides to speak to [[Karen]] instead, who has an office down the hall.
 
 ### [Somebody Told Him](https://www.youtube.com/watch?v=Y5fBdpreJiU)
 
-Once at the HR office, the team attempts to speak to [[Barouk's Works|Karen]] about their pay but she directs them to the Finance department. She also refuses [[Falsair]]'s bribe in exchange for information on the other teams, but implies that she might accept it if they are alone. 
+Once at the HR office, the team attempts to speak to [[Karen]] about their pay but she directs them to the Finance department. She also refuses [[Falsair]]'s bribe in exchange for information on the other teams, but implies that she might accept it if they are alone. 
 
-To be able to look through her files, [[Meldohr|Meldohr]] convinces her that [[Barouk's Works|Jenny]] from Finance has been talking behind her back, and they all decide to go confront her at the Finance office across the hall.
+To be able to look through her files, [[Meldohr|Meldohr]] convinces her that [[Jenny]] from Finance has been talking behind her back, and they all decide to go confront her at the Finance office across the hall.
 
-While they all walk towards [[Barouk's Works|Jenny]]'s office, [[Nula]] stays behind to try to break in. ==She turns into a mouse to slide under the HR door and look for files on [[Aric]], but all the cabinets are locked. Back to her human form, she breaks one of the cabinets open with an ice knife, but the records within it belong to the letter "M".==
+While they all walk towards [[Jenny]]'s office, [[Nula]] stays behind to try to break in. ==She turns into a mouse to slide under the HR door and look for files on [[Aric]], but all the cabinets are locked. Back to her human form, she breaks one of the cabinets open with an ice knife, but the records within it belong to the letter "M".==
 
-Once at [[Barouk's Works|Jenny]]'s door, [[Gal|Gal]] convinces [[Barouk's Works|Karen]] to purchase a stink bomb from her, so she can teach [[Barouk's Works|Jenny]] a lesson. She agrees, then cracks open the bomb with her teeth and throws it through the door to the Finance office before closing it and running back to her own office. 
+Once at [[Jenny]]'s door, [[Gal|Gal]] convinces [[Karen]] to purchase a stink bomb from her, so she can teach [[Jenny]] a lesson. She agrees, then cracks open the bomb with her teeth and throws it through the door to the Finance office before closing it and running back to her own office. 
 
-[[Falsair]] tries to trip [[Barouk's Works|Karen]] up to buy [[Nula]] some time but fails. However, she does not notice [[Nula]] exiting the office in her mouse form. 
+[[Falsair]] tries to trip [[Karen]] up to buy [[Nula]] some time but fails. However, she does not notice [[Nula]] exiting the office in her mouse form. 
 
-Back inside the HR office, she demands that [[Meldohr|Meldohr]] tells her what [[Barouk's Works|Jenny]] has said about her. He tells her that she called her mother a whore, which [[Barouk's Works|Karen]] agrees is accurate, and that she saw her and [[Barouk's Works|John]] the Janitor spending time alone in her office.
+Back inside the HR office, she demands that [[Meldohr|Meldohr]] tells her what [[Jenny]] has said about her. He tells her that she called her mother a whore, which [[Karen]] agrees is accurate, and that she saw her and [[Barouk's Works|John]] the Janitor spending time alone in her office.
 
-Hoping that [[Falsair]] can convince her to release the confidential files, the rest of the [[Characters/Players/index|Party]] waits outside while they stay inside the HR office. ==He frightens her and tells her that she has probably really upset [[Barouk's Works|Jenny]], and that this could cost her her job. He then convinces her to go home and take some time to look after her own mental health before returning to log a complaint against herself on behalf of [[Barouk's Works|Jenny]].==
+Hoping that [[Falsair]] can convince her to release the confidential files, the rest of the [[Characters/Players/index|Party]] waits outside while they stay inside the HR office. ==He frightens her and tells her that she has probably really upset [[Jenny]], and that this could cost her her job. He then convinces her to go home and take some time to look after her own mental health before returning to log a complaint against herself on behalf of [[Jenny]].==
 
-Once he is alone in the office he calls the team back in to help him, as [[Barouk's Works|Karen]] has left him a set of 50 keys that match 35 locks in the office. [[Gal|Gal]] and [[Meldohr|Meldohr]] try to identify any patterns in the keys and locks, but they both fail.
+Once he is alone in the office he calls the team back in to help him, as [[Karen]] has left him a set of 50 keys that match 35 locks in the office. [[Gal|Gal]] and [[Meldohr|Meldohr]] try to identify any patterns in the keys and locks, but they both fail.

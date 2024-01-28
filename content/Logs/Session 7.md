@@ -9,7 +9,7 @@
 > 
 > Then they go to Jeff's lab, and Marius meets them there with Lachlan, an intern that Issha has sent to find them. There they also find a letter addressed to Marius, from his father Loris Bode, letting him know that they are aware of his recent work with Falsair. They get another set of sending stones from Jeff so he can communicate with them.
 > 
-> The Party decides that Lachlan is no danger, and they try to get back into Reset to retrieve their research, but find that the place has been filled with concrete. Since they cannot get there, they decide to try to get in from the other side and also go to Barouk's Works and collect payment for completing their mission, while Gwyn stays with Jeff in the lab to protect him while he works on some sort of communication device.
+> The Party decides that Lachlan is no danger, and they try to get back into Reset to retrieve their research, but find that the place has been filled with concrete. Since they cannot get there, they decide to try to get in from the other side and also go to Barouk's Works and collect payment for completing their mission, while Jeff stays in the lab to work on some sort of communication device.
 
 > [!info] Thursday morning, around 9am.
 
@@ -170,7 +170,7 @@ As they enter the corridor leading to the lab, [[Marius]] notices the trap and [
 
 While [[Marius]] is trying to disarm the trap and [[Gal]] is getting ready to use [Polymorph](https://roll20.net/compendium/dnd5e/Polymorph#content) on the potential intruders, [[Falsair]] asks what the secret code is through the door. Unsure, [[Marius]] says PUB QUIZ, but thankfully [[Falsair]] finds this satisfactory and unlocks the door.
 
-He then hands the envelope to [[Marius]], who stays behind and reads the letter.
+#MafiaStuff He then hands the envelope to [[Marius]], who stays behind and reads the letter.
 
 >[!summary] To The Family Traitor Marius Bode
 >REDACTED
@@ -190,11 +190,11 @@ Inside, [[Nula]] asks [[Lachlan]] who sent him, and when hands the letter and ex
 The letter contains a series of jobs for the [[Characters/Players/index|Party]]:
 
 >[!summary] Jobs:
->* There is a black market auction happening in a week. [[Barouk's Works]] wants the [[Characters/Players/index|Party]] to take it down from the inside. However, it is invite only, so they must procure an invitation themselves.
+>* #BootlegBargains There is a black market auction happening in a week. [[Barouk's Works]] wants the [[Characters/Players/index|Party]] to take it down from the inside. However, it is invite only, so they must procure an invitation themselves.
 >
->* There are also reports of dock workers going missing, which is not that unusual but the managers are becoming annoyed.
+>* #FishAndChips There are also reports of dock workers going missing, which is not that unusual but the managers are becoming annoyed.
 >
->* Finally, there are home robberies taking place at the edges of the [[Ondra#Locations|Barouk District]], although the victims don't have much money so this is low priority.
+>* #HovelPlunder, there are home robberies taking place at the edges of the [[Ondra#Locations|Barouk District]], although the victims don't have much money so this is low priority.
 
 [[Falsair]] interrogates [[Lachlan]] about his throughs on [[Issha]], but all he has noticed is that he is a confident lad. [[Falsair]] messages [[Nula]] that [[Issha]] probably doesn't know about the battle and [[Aric]], and that they should pretend to go along with it.
 
@@ -214,7 +214,7 @@ While [[Lachlan]] continues to unsuccessfully punch the wall, [[Nula]] locates t
 
 Unable to access [[Reset]] from the [[Jeff's Lab|lab]], [[Falsair]] decides to follow the direction of the base from the surface and see if there is another way in. He also wants to return to [[Barouk's Works]] to inform [[Issha]] and get paid for protecting [[Jeff Fishkin|Jeff]].
 
-[[Gwyn]] decides to stay and protect [[Jeff Fishkin|Jeff]] while the rest go to [[Barouk's Works]].
+They decide that [[Jeff Fishkin|Jeff]] should stay in the lab while the rest go to [[Barouk's Works]].
 
 
 

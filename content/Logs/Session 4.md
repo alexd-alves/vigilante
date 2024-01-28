@@ -2,16 +2,16 @@
 
 It is Wednesday.
 
-The [[Characters/Players/index|Party]] is in the HR office at [[Barouk's Works]]. ==[[Nula]] has a file on [[Marius]] that she took out of the broken drawer. [[Evan]] is in the building, and sees [[Barouk's Works|Karen]] leave the building in tears.==
+The [[Characters/Players/index|Party]] is in the HR office at [[Barouk's Works]]. ==[[Nula]] has a file on [[Marius]] that she took out of the broken drawer. [[Evan]] is in the building, and sees [[Karen]] leave the building in tears.==
 
-To make sure that no one enters the office while the rest look through the drawers, [[Falsair]] disguises himself as [[Barouk's Works|Karen]] and stands guard outside of the door. ==While he is outside, [[Evan]] almost kills him by startling him to ask where the rest are.== 
+To make sure that no one enters the office while the rest look through the drawers, [[Falsair]] disguises himself as [[Karen]] and stands guard outside of the door. ==While he is outside, [[Evan]] almost kills him by startling him to ask where the rest are.== 
 ### [Evan Are You Okay?](https://www.youtube.com/watch?v=CDl9ZMfj6aE)
 
-Once inside, [[Marius]] asks [[Evan]] what where he has been, and he responds outside and "birds". He seems very rattled and dirty, so he rests on [[Barouk's Works|Karen]]'s chair while [[Marius]] goes find [[Barouk's Works|Jenny from Finance]].
+Once inside, [[Marius]] asks [[Evan]] what where he has been, and he responds outside and "birds". He seems very rattled and dirty, so he rests on [[Karen]]'s chair while [[Marius]] goes find [[Jenny]].
 
 [[Meldohr|Meldohr]] finds the key to the office's door and locks it behind [[Marius]] and [[Falsair]]. Hearing the lock, [[Falsair]] leaves to go find his cats and explore the building. He successfully makes a call and finds one of his cats locked in a broom cupboard upstairs. He commands it to find the sabre-tooth tiger Daddy and the rest of the cats.
 
-Meanwhile, [[Marius]] has also walked upstairs and sees [[Falsair]] return, still disguised as [[Barouk's Works|Karen]]. He goes to reception to find the pigeon holes where mail is kept. His own pigeon hole is empty, and as he places a note in his husband's he notices that the last note he left has gone uncollected. He then makes his way back to the rest of the [[Characters/Players/index|Party]].
+Meanwhile, [[Marius]] has also walked upstairs and sees [[Falsair]] return, still disguised as [[Karen]]. He goes to reception to find the pigeon holes where mail is kept. His own pigeon hole is empty, and as he places a note in his husband's he notices that the last note he left has gone uncollected. He then makes his way back to the rest of the [[Characters/Players/index|Party]].
 ### [Rattle That Lock](https://www.youtube.com/watch?v=L1v7hXEQhsQ)
 
 Back in the HR office, [[Meldohr|Meldohr]] and [[Gal|Gal]] start trying keys in the locks. [[Nula]] pulls out [[Marius]]'s file and, concerned that it is an invasion of privacy, she gives it to [[Evan]] while the rest peek over his shoulder.
