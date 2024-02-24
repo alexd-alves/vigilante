@@ -17,6 +17,8 @@
 
 #MafiaStuff [[Marius]] says that, given the letter, the Black Market would be a dangerous place for himself and [[Falsair]]. [[Lachlan]] suggests putting it off until the date is closer, as acquiring an invitation would require lots of work.
 
+### [BB's Puppet](https://www.youtube.com/watch?v=Ga1kMdJCc_Q)
+
 On the way to [[Barouk's Works]], [[Gwyn]] asks [[Chicken]] to fly over them and keep an eye, but he is more focused on impressing the [[Characters/Players/index|Party]] with some tricks and doesn't notice anything. They leave [[Chicken]] circling the air outside the building while the rest go in and find [[Issha]]. [[Marius]] asks him to clarify whether [[Lachlan]] is being paid for his work, but [[Issha]] refuses as they are unwilling to let him speak to [[Lachlan]] alone. They also convince [[Issha]] that [[Gwyn]] is actually [[Meldohr]].
 
 #BeigeStalkers [[Issha]] agrees to pay the [[Characters/Players/index|Party]] 133 gold pieces after seeing [[Jeff Fishkin|Jeff]]'s signature, showing that he is happy with the job and is now in a safe place. However, he refuses to pay for [[Miss Lucy]] since there is no proof that the cats were located.
@@ -31,11 +33,15 @@ Before they return, [[Issha]] comes back and asks where [[Falsair]] and [[Gwyn]]
 
 Before moving on, they check the bin behind the building. [[Lachlan]] finds the burnt remains of the cat, which [[Falsair]] is able to bring back as a zombie. They also find some paperwork that has been cross-shredded, but they leave it as it would be almost impossible to reconstruct. There, they also split the money, and decide to give [[Meldohr]]'s share to [[Allia]]'s temple. [[Lachlan]] gets 3 gold.
 
+### [Where Have The Workers Gone?](https://www.youtube.com/watch?v=o8OUMq37nBI)
+
 #FishAndChips The [[Characters/Players/index|Party]] travels to the docks. They can see ships docked along the river and metal containers and boxes being moved around. [[Lachlan]] approaches one of the dock workers and offers to help moving crates. Initially, [[Gal]] tells the worker off for trying to take advantage of the lad, but then decides to question him while [[Lachlan]] does his work. The worker is called [[Darren]]. 
 
 [[Darren]] says that it is not unusual for people to not show up to work because it is shit, and he doesn't believe the talk about workers being abducted. He tells [[Gal]] that the person to talk to would be [[Andrew]], who is probably lazing around at a pub somewhere. He also mentions [[Wesley]], who is apparently crazy and has been talking about birds and fish things. [[Wesley]] is working a few ships away.
 
 [[Gal]] offers him a business card and [[Falsair]] asks him what he can do, but when [[Gal]] mentions his family and his ~~probably dead~~ wife he becomes quite rude. His whole family had died in a fire and he was not happy that he was being asked about it. He insults [[Falsair]]'s cat but the [[Characters/Players/index|Party]], with some difficulty, moves on to talk to [[Wesley]].
+
+### [Normal Wesley?](https://www.youtube.com/watch?v=Ck9_Fx5DSz4)
 
 They find [[Wesley]] moving boxes from a ship to a warehouse. He is scrawny and twitching. When they approach him, he hands his box to [[Lachlan]], who starts hauling items to the warehouse for him. [[Marius]] asks him about the monster that he has been talking about, and he says that it comes from the river and has been snatching lone workers. When [[Marius]] asks about the birds, he says that he doesn't trust things that can fly. [[Lachlan]] points out the drake, and [[Wesley]] takes some time to compare [[Gwyn]]'s relationship to [[Chicken]] to slavery.
 
@@ -43,11 +49,15 @@ They find [[Wesley]] moving boxes from a ship to a warehouse. He is scrawny and 
 
 [[Gal]] suggests hiding somewhere, and [[Wesley]] offers a fishing rod, which he does not have but is willing to steal and resell. He also mentions his boss, [[David]].
 
+### [Just Around the Riverbend](https://www.youtube.com/watch?v=x6kl9oW2NRU)
+
 By the water, [[Lachlan]] uses [Commune with Nature](https://www.dndbeyond.com/spells/commune-with-nature). The river is murky, but as he dips his hand in the water it starts to clear, and he becomes a fish flowing down the river. As he gets further away from their position, the river is almost blocked out, as if there is something constructed there that is blocking his senses. Then, he flows beyond the obstruction, now knowing that there is an underwater structure by the river bank. After he reveals this information, they try to leave [[Wesley]] behind to investigate, but [[Nula]] notices that he is following. [[Marius]] tries making some noise on the water to scare him away, but it doesn't work and they decide to allow him to follow in case he is able to warn them of any danger from the water.
 
 By the obstruction, [[Nula]] summons the [[Octotank]], and [[Lachlan]] casts [Beast Sense](http://dnd5e.wikidot.com/spell:beast-sense) to see through its eyes. It goes underwater to have a look at the structure along the bank. It finds it 40 or 50 feet deep. It is a large, metal door, with somewhat intricate designs on it but no handles. It shows no signs of decay or corrosion, and there are no visible openings around it.
 
 Once they finish looking underwater, [[Gal]] asks another worker about weird activity in the river and the warehouse on top of where the tunnel would lead. He states that he hasn't seen anything weird in or around the warehouse, they just move boxes in and out. [[Falsair]] then tries to convince him that [[David]] has told them that everyone should take the rest of the day off, but he doesn't believe it and asks [[Lachlan]] to lug crates for him.
+
+### [Fish is Back on the Menu](https://www.youtube.com/watch?v=PsKWBBUtaUU)
 
 Knowing what is underwater, the [[Characters/Players/index|Party]] decides to offer the workers money to leave for a while so they can lure the creature out. Once the area is empty, [[Gwyn]] camouflages himself against a box, and [[Lachlan]] pretends to keep carrying boxes while everyone else hides. [[Nula]] can still see [[Wesley]] hiding behind a box. As she is looking around, she notices someone lying down on top of a crate near [[Wesley]]. He has an arrow primed, the head of it shining with poison. 
 
@@ -64,10 +74,17 @@ During the following battle, the [[Characters/Players/index|Party]] along with [
 >[!quote]
 ><font color="grey">GAL:</font> Looks like fish is back on the menu!
 
-Watching the remaining blade singer readying himself over [[Marius]]'s unconscious form, [[Gwyn]] tries to take him down with his bow. He shoots twice, but both times the elf is able to dodge his arrows. Unable to shoot again, [[Gwyn]] makes a split second decision to use [[Chicken]]'s [Drake Breath](http://dnd5e.wikidot.com/ranger:drakewarden) to administer the coup de grâce, disregarding the risk of hitting [[Marius]] and [[Lachlan]] at the elf's feet...
+### [Diamonds are an Elf's Best Friend](https://www.youtube.com/watch?v=hEyWqVfY4vo)
 
->[!hint] To be continued... 🙃
+Watching the remaining blade singer readying himself over [[Marius]]'s unconscious form, [[Gwyn]] tries to take him down with his bow. He shoots twice, but both times the elf is able to dodge his arrows. Unable to shoot again, [[Gwyn]] makes a split second decision to use [[Chicken]]'s [Drake Breath](http://dnd5e.wikidot.com/ranger:drakewarden) to administer the coup de grâce, disregarding the risk of hitting [[Marius]] and [[Lachlan]] at the elf's feet.
 
+>[!fail] The Drake Breath leaves the elf barely alive, but he is able to kill [[Marius]] before jumping into the water.
 
+Worried that he might attack from the water, [[Falsair]] casts [Wither and Bloom](http://dnd5e.wikidot.com/spell:wither-and-bloom) upon the water and successfully finishes the remaining elf off.
 
+Afterwards, [[Nula]] starts searching the unconscious elf for diamonds to be able to [Revivify](https://roll20.net/compendium/dnd5e/Revivify#content) [[Marius]]. Meanwhile, [[Gwyn]] is panicking over [[Marius]]. Then, [[Nula]] notices [[Marius]]'s wedding ring, which has a diamond. She takes it and performs the spell, destroying the ring in the process.
 
+As [[Marius]] starts waking up, he calls for his husband.
+
+>[!quote]
+><font color="grey">MARIUS:</font> Aeris?
